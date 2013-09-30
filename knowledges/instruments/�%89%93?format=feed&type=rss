@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 打</title>
+		<description></description>
+		<link>http://www.chinacno.org/knowledges/instruments/打</link>
+		<lastBuildDate>周四, 26 9月 2013 17:54:16 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/knowledges/instruments/打?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>边鼓</title>
+			<link>http://www.chinacno.org/knowledges/instruments/打/304-边鼓</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/打/304-边鼓</guid>
+			<description><![CDATA[<p>
+	边鼓〓壮族打击乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周二, 29 5月 2012 07:12:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>八角鼓</title>
+			<link>http://www.chinacno.org/knowledges/instruments/打/301-八角鼓</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/打/301-八角鼓</guid>
+			<description><![CDATA[<p>
+	八角鼓〓打击乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周二, 29 5月 2012 05:37:36 +0000</pubDate>
+		</item>
+		<item>
+			<title> 板凳</title>
+			<link>http://www.chinacno.org/knowledges/instruments/打/298-板凳</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/打/298-板凳</guid>
+			<description><![CDATA[<p>
+	板凳〓苗族打击乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周一, 28 5月 2012 07:03:44 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

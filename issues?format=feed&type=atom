@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="zh-cn">
+	<title type="text">中央民族乐团 - 出版||Issues</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.chinacno.org"/>
+	<id>http://www.chinacno.org/issues</id>
+	<updated>2013-09-26T17:55:12+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! 1.6 - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.chinacno.org/issues?format=feed&amp;type=atom"/>
+	<entry>
+		<title>裴长佳独唱音乐会精粹</title>
+		<link rel="alternate" type="text/html" href="http://www.chinacno.org/issues/discs/309-裴长佳独唱音乐会精粹"/>
+		<published>2012-06-03T13:19:57+00:00</published>
+		<updated>2012-06-03T13:19:57+00:00</updated>
+		<id>http://www.chinacno.org/issues/discs/309-裴长佳独唱音乐会精粹</id>
+		<author>
+			<name>肖文礼</name>
+			<email>xiaowenli@chinacno.org</email>
+		</author>
+		<summary type="html">&lt;p&gt;
+	&lt;a href=&quot;http://v.youku.com/v_show/id_XNDA4MzEzODI4.html&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/2012/06/peichangjia.jpg&quot; style=&quot;width: 240px; height: 230px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;
+	&lt;a href=&quot;http://v.youku.com/v_show/id_XNDA4MzEzODI4.html&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/2012/06/peichangjia.jpg&quot; style=&quot;width: 240px; height: 230px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>民族音乐随笔</title>
+		<link rel="alternate" type="text/html" href="http://www.chinacno.org/issues/books/44-民族音乐随笔"/>
+		<published>2011-03-13T12:58:45+00:00</published>
+		<updated>2011-03-13T12:58:45+00:00</updated>
+		<id>http://www.chinacno.org/issues/books/44-民族音乐随笔</id>
+		<author>
+			<name>肖文礼</name>
+			<email>xiaowenli@chinacno.org</email>
+		</author>
+		<summary type="html">&lt;img alt=&quot;民族音乐随笔&quot; class=&quot;hs in-left&quot; src=&quot;images/shuxundiexun/shuxun/minzuyinyuesuibi.jpg&quot; style=&quot;width: 150px; height: 225px; &quot; title=&quot;民族音乐随笔&quot; /&gt;</summary>
+		<content type="html">&lt;img alt=&quot;民族音乐随笔&quot; class=&quot;hs in-left&quot; src=&quot;images/shuxundiexun/shuxun/minzuyinyuesuibi.jpg&quot; style=&quot;width: 150px; height: 225px; &quot; title=&quot;民族音乐随笔&quot; /&gt;</content>
+	</entry>
+	<entry>
+		<title>金色回响</title>
+		<link rel="alternate" type="text/html" href="http://www.chinacno.org/issues/books/43-金色回响"/>
+		<published>2011-03-13T11:31:51+00:00</published>
+		<updated>2011-03-13T11:31:51+00:00</updated>
+		<id>http://www.chinacno.org/issues/books/43-金色回响</id>
+		<author>
+			<name>肖文礼</name>
+			<email>xiaowenli@chinacno.org</email>
+		</author>
+		<summary type="html">&lt;img alt=&quot;金色回响&quot; class=&quot;hs in-left&quot; src=&quot;images/shuxundiexun/shuxun/jinsehuixiang.jpg&quot; style=&quot;width: 150px; height: 225px; &quot; title=&quot;金色回响&quot; /&gt;</summary>
+		<content type="html">&lt;img alt=&quot;金色回响&quot; class=&quot;hs in-left&quot; src=&quot;images/shuxundiexun/shuxun/jinsehuixiang.jpg&quot; style=&quot;width: 150px; height: 225px; &quot; title=&quot;金色回响&quot; /&gt;</content>
+	</entry>
+</feed>

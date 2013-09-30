@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 其它演出</title>
+		<description></description>
+		<link>http://www.chinacno.org/concerts/other-concerts</link>
+		<lastBuildDate>周四, 26 9月 2013 17:53:20 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/concerts/other-concerts?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>乌克兰音乐日</title>
+			<link>http://www.chinacno.org/concerts/other-concerts/370-ukraine</link>
+			<guid isPermaLink="true">http://www.chinacno.org/concerts/other-concerts/370-ukraine</guid>
+			<description><![CDATA[<span style="color: #050505;">   <img src="http://www.chinacno.org/images/2012/12/yyt/25-poster.jpg" border="0" width="500" height="750" style="display: block; margin-left: auto; margin-right: auto;" /> </span>
+]]></description>
+			<author>baiyu@chinacno.org (白羽)</author>
+			<pubDate>周一, 17 12月 2012 08:22:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>中央民族乐团常用联系方式</title>
+			<link>http://www.chinacno.org/contact</link>
+			<guid isPermaLink="true">http://www.chinacno.org/contact</guid>
+			<description><![CDATA[<ul>
+	<li>
+		演出中心联系电话：（010）64957435，演出中心主任：朱永明 13701226911</li>
+</ul>
+<iframe frameborder="0" height="650" marginheight="0" marginwidth="0" scrolling="no" src="http://ditu.google.cn/maps?f=q&amp;source=s_q&amp;hl=zh-CN&amp;geocode=&amp;q=%E4%B8%AD%E5%A4%AE%E6%B0%91%E6%97%8F%E4%B9%90%E5%9B%A2&amp;aq=&amp;sll=35.86166,104.195397&amp;sspn=55.128086,77.958984&amp;brcurrent=3,0x35f1ab433e8791bb:0xc67273dafbbc1aa1,0,0x35f1abee23736947:0xd7bb8b3026d0813a%3B5,0,0&amp;ie=UTF8&amp;hq=%E4%B8%AD%E5%A4%AE%E6%B0%91%E6%97%8F%E4%B9%90%E5%9B%A2&amp;hnear=&amp;ll=39.993016,116.423506&amp;spn=0.026007,0.038066&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=2227328437016512086&amp;output=embed" width="650"></iframe><embed height="0" id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" width="0"></embed>]]></description>
+			<author>xiaowenli@chinacno.org (肖文礼)</author>
+			<pubDate>周二, 21 2月 2012 05:16:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>2011北京现代音乐节开幕式：国家大剧院音乐厅管弦乐团音乐会</title>
+			<link>http://www.chinacno.org/concerts/other-concerts/163-2011北京现代音乐节开幕式：国家大剧院音乐厅管弦乐团音乐会</link>
+			<guid isPermaLink="true">http://www.chinacno.org/concerts/other-concerts/163-2011北京现代音乐节开幕式：国家大剧院音乐厅管弦乐团音乐会</guid>
+			<description><![CDATA[<ul>
+	<li>
+		时 &nbsp;间：2011年5月21日</li>
+	<li>
+		地 &nbsp;点：国家大剧院音乐厅</li>
+	<li>
+		演 &nbsp;出：国家大剧院音乐厅管弦乐队</li>
+	<li>
+		指 &nbsp;挥：吕嘉</li>
+</ul>
+<ol>
+	<li>
+		晨曦微光&mdash;&mdash;怀念莫顿&middot;费尔德曼(武满彻曲)</li>
+	<li>
+		第五交响曲《怀念我的父母》(吉雅&middot;坎切利曲)</li>
+	<li>
+		第三交响曲《楚》，作品45号(叶小纲曲)</li>
+</ol>
+]]></description>
+			<author>xiaowenli@chinacno.org (肖文礼)</author>
+			<pubDate>周日, 15 5月 2011 17:00:35 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

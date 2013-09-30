@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 男高</title>
+		<description></description>
+		<link>http://www.chinacno.org/about-us/teams/nangao</link>
+		<lastBuildDate>周四, 26 9月 2013 17:51:12 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/about-us/teams/nangao?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>男高音  李春玉</title>
+			<link>http://www.chinacno.org/about-us/teams/nangao/325-男高音-李春玉</link>
+			<guid isPermaLink="true">http://www.chinacno.org/about-us/teams/nangao/325-男高音-李春玉</guid>
+			<description><![CDATA[<img alt="李春玉" class="hs in-left" src="http://www.chinacno.org/images/people/nangao/lichunyu.jpg" style="width: 150px; height: 225px; " />
+]]></description>
+			<author>xiaowenli@chinacno.org (肖文礼)</author>
+			<pubDate>周三, 04 7月 2012 06:48:31 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

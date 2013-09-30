@@ -1,0 +1,687 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn" lang="zh-cn" dir="ltr" >
+<head>
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="rights" content="" />
+  <meta name="language" content="zh-CN" />
+  <meta name="title" content="" />
+  <meta name="author" content="" />
+  <meta name="generator" content="Joomla! 1.6 - Open Source Content Management" />
+  <title>中央民族乐团 - 团内新闻</title>
+  <link href="cno-news?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="cno-news?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="http://www.chinacno.org/templates/yoo_studio/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.chinacno.org/components/com_jacomment/themes/default/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/reset.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/menus.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/modules.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/extensions.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/variations/red.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/custom.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/modules/mod_jaclatest_comments/assets/mod_jaclatest_comments.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/components/com_jacomment/asset/css/ja.popup.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/components/com_jacomment/asset/css/ja.comment.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/components/com_jacomment/asset/css/ja.ie.php" type="text/css" />
+  <style type="text/css">
+.wrapper { width: 1000px; }
+#main-shift { margin-right: 280px; }
+#right { width: 280px; margin-left: -280px; }
+#menu .dropdown { width: 180px; }
+#menu .columns2 { width: 360px; }
+#menu .columns3 { width: 540px; }
+#menu .columns4 { width: 720px; }
+
+			       #jac-wrapper .plugin_embed .smileys,.jac-mod_content .smileys{
+			            top: 17px;
+			        	background:#ffea00;
+			            clear:both;
+			            height:84px;
+			            width:105px;	            
+			            padding:2px 1px 1px 2px !important;
+			            position:absolute;
+			            z-index:51;
+			            -webkit-box-shadow:0 1px 3px #999;box-shadow:1px 2px 3px #666;-moz-border-radius:2px;-khtml-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;
+			        }        
+			        #jac-wrapper .plugin_embed .smileys li,.jac-mod_content .smileys li{
+			            display: inline;
+			            float: left;
+			            height:20px;
+			            width:20px;
+			            margin:0 1px 1px 0 !important;
+			            border:none;
+			            padding:0
+			        }
+			        #jac-wrapper .plugin_embed .smileys .smiley,.jac-mod_content .smileys .smiley{
+			            background: url(http://www.chinacno.org/components/com_jacomment/asset/images/smileys/modern/smileys_bg.png) no-repeat;
+			            display:block;
+			            height:20px;
+			            width:20px;
+			        }
+			        #jac-wrapper .plugin_embed .smileys .smiley:hover,.jac-mod_content .smileys .smiley:hover{
+			            background:#fff;
+			        }
+			        #jac-wrapper .plugin_embed .smileys .smiley span, .jac-mod_content .smileys .smiley span{
+			            background: url(http://www.chinacno.org/components/com_jacomment/asset/images/smileys/modern/smileys.png) no-repeat;
+			            display: inline;
+			            float: left;
+			            height:12px;
+			            width:12px;
+			            margin:4px !important;
+			        }
+			        #jac-wrapper .plugin_embed .smileys .smiley span span, .jac-mod_content .smileys .smiley span span{
+			            display: none;
+			        } 
+			        #jac-wrapper .comment-text .smiley {
+			            font-family:inherit;
+						font-size:100%;
+						font-style:inherit;
+						font-weight:inherit;
+						text-align:justify;
+			        }
+			        #jac-wrapper .comment-text .smiley span, .jac-mod_content .smiley span{
+			            background: url(http://www.chinacno.org/components/com_jacomment/asset/images/smileys/modern/smileys.png) no-repeat scroll 0 0 transparent;
+						display:inline;
+						float:left;
+						height:12px;
+						margin:4px !important;
+						width:12px;
+			        }
+			        .comment-text .smiley span span,.jac-mod_content .smiley span span{
+			            display:none;
+			        }
+			
+  </style>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/libraries/jquery/jquery.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/core.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/js/warp.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/js/accordionmenu.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/js/dropdownmenu.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/js/template.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/js/search.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});var Warp = Warp || {}; Warp.Settings = { tplurl: '/templates/yoo_studio', color: 'red' };function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });
+  </script>
+
+<link rel="apple-touch-icon" href="http://www.chinacno.org/templates/yoo_studio/apple_touch_icon.png" />
+</head>
+
+<body id="page" class="yoopage  column-right ">
+
+	
+	<div id="page-body">
+		<div class="page-body-img">
+			<div class="wrapper">
+	
+				<div id="header">
+	
+					<div id="toolbar">
+					
+												<div id="date">
+							<div class="module mod-toolbar"><div class="box-1"><div class="box-2"><div class="box-3 deepest">
+								2013年9月27日 星期五							</div></div></div></div>
+						</div>
+											
+												
+												<div class="right">
+							<div class="module mod-toolbar   first last">
+
+		
+	<div class="box-1">
+		<div class="box-2">
+			<div class="box-3 deepest">
+			
+								
+				<form action="cno-news.1" method="post" id="login-form" >
+	<span class="pretext"></span>
+	<span class="xx">用户名 <input id="modlgn-username" type="text" name="username" class="inputbox"  size="10" /></span>
+	<span class="xx">密码 <input id="modlgn-passwd" type="password" name="password" class="inputbox" size="10" /></span>
+		<span class="xx">记住我 <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes" checked="checked" /></span>
+		<input type="submit" name="Submit" class="button" value="登录" />
+	<input type="hidden" name="option" value="com_users" />
+	<input type="hidden" name="task" value="user.login" />
+	<input type="hidden" name="return" value="aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZsaW1pdHN0YXJ0PTE4JnZpZXc9Y2F0ZWdvcnkmbGF5b3V0PWJsb2cmaWQ9MjImSXRlbWlkPTE2NQ==" />
+	<input type="hidden" name="735bdab9e3af1d8c11c647829b5afb04" value="1" />	<span class="posttext">忘记<a href="../component/users/index.html?view=reset&amp;Itemid=">密码</a>/<a href="../component/users/index.html?view=remind&amp;Itemid=">用户名</a>? 还没<a href="../component/users/index.html?view=registration&amp;Itemid=">注册</a>?</span>
+</form>
+				
+			</div>
+		</div>
+	</div>
+		
+</div>						</div>
+												
+					</div>
+	
+								
+					<div id="headerbar">
+	
+												
+												<div class="right">
+							<div class="module mod-blank   first last">
+
+	
+		
+	
+	
+
+
+
+<div class="saying">
+	路是脚踏出来的，历史是人写出来的。人的每一步行动都在书写自己的历史。 &mdash;&mdash; 吉鸿昌</div>
+
+		
+</div>						</div>
+												
+					</div>
+	
+							
+					<div id="logo">
+						<div class="custom">
+	<div style="margin-top: 10px;">
+	<a href="../index.php" target="_parent"><img alt="中央民族乐团" class="correct-png" height="80" src="http://www.chinacno.org/images/logo.png" title="中央民族乐团" width="300" /></a></div>
+</div>					</div>
+					
+						
+				</div>
+				<!-- header end -->
+	
+	
+					
+				<div class="menubar">
+	
+										<div id="menu">
+                        <ul class="menu menu-dropdown"><li class="level1 item1 first"><a href="../index.html" class="level1 item1 first"><span class="bg"><span class="title">首页</span><span class="subtitle">Home</span></span></a></li><li class="level1 item2 parent"><a href="../about-us.1" class="level1 item2 parent"><span class="bg"><span class="title">我们</span><span class="subtitle">About us</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../about-us/leaders.1" class="level2 item1 first"><span class="bg">现任领导</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2 separator parent"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><span class="level2 item2 separator parent"><span class="bg">我们的声部</span></span></div></div></div></div><div class="sub"><ul class="level3"><li class="level3 item1 first"><a href="../about-us/teams/zhihui.1" class="level3 item1 first"><span class="bg">指挥</span></a></li><li class="level3 item2"><a href="../about-us/teams/chuiguan.1" class="level3 item2"><span class="bg">吹管</span></a></li><li class="level3 item3"><a href="../about-us/teams/laxian.1" class="level3 item3"><span class="bg">拉弦</span></a></li><li class="level3 item4"><a href="../about-us/teams/tanbo.1" class="level3 item4"><span class="bg">弹拨</span></a></li><li class="level3 item5"><a href="../about-us/teams/daji.1" class="level3 item5"><span class="bg">打击</span></a></li><li class="level3 item6"><a href="../about-us/teams/nvgao.1" class="level3 item6"><span class="bg">女高</span></a></li><li class="level3 item7"><a href="../about-us/teams/nvzhong" class="level3 item7"><span class="bg">女中</span></a></li><li class="level3 item8"><a href="../about-us/teams/nangao.1" class="level3 item8"><span class="bg">男高</span></a></li><li class="level3 item9 last"><a href="../about-us/teams/nanzhong.1" class="level3 item9 last"><span class="bg">男中</span></a></li></ul></div></div></div></div></div></div></li><li class="level2 item3 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../about-us/history.1" class="level2 item3 last"><span class="bg">历史的记忆</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="active level1 item3 parent"><a href="../news.1" class="level1 item3 parent active"><span class="bg"><span class="title">新闻</span><span class="subtitle">News</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first active current"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="cno-news.1" class="level2 item1 first active current"><span class="bg">团内新闻</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="other-news.1" class="level2 item2 last"><span class="bg">业界新闻</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item4 parent"><a href="../concerts.1" class="level1 item4 parent"><span class="bg"><span class="title">演出</span><span class="subtitle">Concerts</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first parent"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../concerts/cno-concerts.1" class="level2 item1 first parent"><span class="bg">团内演出</span></a></div></div></div></div><div class="sub"><ul class="level3"><li class="level3 item1 first"><a href="../concerts/cno-concerts/mzyyt.1" class="level3 item1 first"><span class="bg">民族音乐厅音乐会</span></a></li><li class="level3 item2"><a href="../concerts/cno-concerts/gjdjy.1" class="level3 item2"><span class="bg">国家大剧院音乐会</span></a></li><li class="level3 item3 last"><a href="../concerts/cno-concerts/other-concerts.1" class="level3 item3 last"><span class="bg">其它音乐会</span></a></li></ul></div></div></div></div></div></div></li><li class="level2 item2 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../concerts/other-concerts.1" class="level2 item2 last"><span class="bg">其它演出</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item5 parent"><a href="../knowledges.1" class="level1 item5 parent"><span class="bg"><span class="title">知识</span><span class="subtitle">Knowledges</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first parent"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../knowledges/instruments.1" class="level2 item1 first parent"><span class="bg">民族器乐</span></a></div></div></div></div><div class="sub"><ul class="level3"><li class="level3 item1 first"><a href="../knowledges/instruments/�%2590�.1" class="level3 item1 first"><span class="bg">吹</span></a></li><li class="level3 item2"><a href="../knowledges/instruments/�%258B%2589.1" class="level3 item2"><span class="bg">拉</span></a></li><li class="level3 item3"><a href="../knowledges/instruments/弹.1" class="level3 item3"><span class="bg">弹</span></a></li><li class="level3 item4 last"><a href="../knowledges/instruments/�%2589%2593.1" class="level3 item4 last"><span class="bg">打</span></a></li></ul></div></div></div></div></div></div></li><li class="level2 item2"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../knowledges/academic.1" class="level2 item2"><span class="bg">学术共享</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item3 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../knowledges/magazine.1" class="level2 item3 last"><span class="bg">《锦瑟》</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item6 parent"><a href="../comments.1" class="level1 item6 parent"><span class="bg"><span class="title">评论</span><span class="subtitle">Comments</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../comments/music.1" class="level2 item1 first"><span class="bg">乐评</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../comments/books.1" class="level2 item2"><span class="bg">书评</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item3 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../comments/artists.1" class="level2 item3 last"><span class="bg">人物</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item7 parent"><a href="../issues.1" class="level1 item7 parent"><span class="bg"><span class="title">出版</span><span class="subtitle">Issues</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../issues/discs.1" class="level2 item1 first"><span class="bg">碟讯</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../issues/books.1" class="level2 item2 last"><span class="bg">书讯</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item8 last parent"><a href="../forums.1" class="level1 item8 last parent"><span class="bg"><span class="title">三坛映乐</span><span class="subtitle">Forums</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../forums/recent-topics" class="level2 item1 first"><span class="bg">最新话题</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../forums/category-index.1" class="level2 item2"><span class="bg">板块列表</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item3"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../forums/profile.1" class="level2 item3"><span class="bg">个人信息</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item4"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../forums/help-page" class="level2 item4"><span class="bg">使用帮助</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item5"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../forums/rules-page" class="level2 item5"><span class="bg">论坛规则</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item6 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../forums/search" class="level2 item6 last"><span class="bg">搜索论坛</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li></ul>					</div>
+						
+										<div id="search" class="sidebar-search">
+						
+<div id="searchbox">
+	<form action="http://www.chinacno.org/news/index.php" method="post" role="search">
+		<button class="magnifier" type="submit" value="Search"></button>
+		<input type="text" value="" name="searchword" placeholder="搜索..." />
+		<button class="reset" type="reset" value="Reset"></button>
+		<input type="hidden" name="task"   value="search" />
+		<input type="hidden" name="option" value="com_search" />
+	</form>
+</div>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$('#searchbox input[name=searchword]').search({'url': 'index.php?option=com_search&tmpl=raw&type=json&ordering=&searchphrase=all', 'param': 'searchword', 'msgResultsHeader': '搜索结果', 'msgMoreResults': '更多结果', 'msgNoResults': '未找到'}).placeholder();
+});
+</script>					</div>
+										
+					<div class="content-wrapper-t1">
+						<div class="content-wrapper-t2">
+							<div class="content-wrapper-t3"></div>
+						</div>
+					</div>
+					
+				</div>
+				
+				<div class="content-wrapper-1">
+					<div class="content-wrapper-2">
+						<div class="content-wrapper-3">
+							<div class="content-wrapper-4">
+					
+								<div id="middle">
+									<div id="middle-expand">
+					
+										<div id="main">
+											<div id="main-shift">
+	
+																								<div id="breadcrumbs">
+													<div class="breadcrumbs"><a href="../index.html" class="box-1"><span class="box-2"><span class="box-3">首页</span></span></a><a href="../news.1" class="box-1"><span class="box-2"><span class="box-3">新闻</span></span></a><span class="current box-1"><span class="box-2"><span class="box-3">团内新闻</span></span></span></div>												</div>
+													
+													
+												<div class="component-bg floatbox last">
+													
+													
+
+<div id="system" class="">
+
+	
+	
+	
+	
+		
+	<div class="items items-col-1"><div class="width100 first last">
+<div class="item">
+
+		<div class="icon email"><a href="../component/mailto/index.html?tmpl=component&amp;template=yoo_studio&amp;link=8caad94bb1059928cd9865d4b331ff8e1e34696c" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="http://www.chinacno.org/media/system/images/emailButton.png" alt="Email"  /></a></div>
+	
+		<div class="icon print"><a href="cno-news/384-中央�%2591�%2597%258F�%2590�%259B��%259A天水�%2594��%258C�%2586%259B�%2590�?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="打印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+	
+		<h1 class="title">
+
+					<a href="cno-news/384-中央�%2591�%2597%258F�%2590�%259B��%259A天水�%2594��%258C�%2586%259B�%2590�" title="中央民族乐团：天水放歌军营">中央民族乐团：天水放歌军营</a>
+		
+	</h1>
+	
+		<p class="meta">
+
+		编辑：肖文礼  2013年1月23日 15:10. 发表于 <a href="cno-news.1">团内新闻</a>	
+	
+	</p>
+	
+	
+	<div class="content"><p>
+	来源：光明日报 作者：宋喜群 令叶</p>
+<p>
+	由中央民族乐团担纲演出的文化部&ldquo;三下乡&rdquo;慰问演出活动日前走进甘肃天水军营，受到部队官兵的热烈欢迎。</p>
+</div>
+
+
+		<p class="links">
+	
+		
+		<a href="cno-news/384-中央�%2591�%2597%258F�%2590�%259B��%259A天水�%2594��%258C�%2586%259B�%2590�" title="中央民族乐团：天水放歌军营">
+			阅读全文		</a>
+		
+	</p>
+	
+	
+	<div class="jac-add-button"><a class="jac-links" style="background: url('http://www.chinacno.org/components/com_jacomment/asset/images/comment.png') no-repeat left center; padding-left: 16px;" href="cno-news/384-中央�%2591�%2597%258F�%2590�%259B��%259A天水�%2594��%258C�%2586%259B�%2590�" title="发表评论">发表评论</a>
+							
+		
+					
+		<span class="jac-count-comment">(0)</span></div>	
+</div>
+<div class="item">
+
+		<div class="icon email"><a href="../component/mailto/index.html?tmpl=component&amp;template=yoo_studio&amp;link=d25c0e5b0e8ae5287d9eb7c5bcf89ef409ae4107" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="http://www.chinacno.org/media/system/images/emailButton.png" alt="Email"  /></a></div>
+	
+		<div class="icon print"><a href="cno-news/381-中央�%2591�%2597%258F�%2590�%259B��%2596%2587�%258C%2596�%2589�%258B乡�%2594%2598�%2582%2583�%258C?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="打印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+	
+		<h1 class="title">
+
+					<a href="cno-news/381-中央�%2591�%2597%258F�%2590�%259B��%2596%2587�%258C%2596�%2589�%258B乡�%2594%2598�%2582%2583�%258C" title="中央民族乐团文化三下乡甘肃行">中央民族乐团文化三下乡甘肃行</a>
+		
+	</h1>
+	
+		<p class="meta">
+
+		编辑：肖文礼  2013年1月19日 12:58. 发表于 <a href="cno-news.1">团内新闻</a>	
+	
+	</p>
+	
+	
+	<div class="content">作者：中央民族乐团合唱队张向华<br />
+<p>
+	2013年文化部文化&ldquo;三下乡&rdquo;活动已拉开序幕。1月12日中央民族乐团一行50余人在团长席强和副团长吴玉霞的带领下赴甘肃送戏下乡。一路途经伏羲故里天水，轩辕故里清水，中国薯都定西，四天演出6场，观众达一万二千余人之多。给当地群众送去了一份视听文化大餐。</p>
+</div>
+
+
+		<p class="links">
+	
+		
+		<a href="cno-news/381-中央�%2591�%2597%258F�%2590�%259B��%2596%2587�%258C%2596�%2589�%258B乡�%2594%2598�%2582%2583�%258C" title="中央民族乐团文化三下乡甘肃行">
+			阅读全文		</a>
+		
+	</p>
+	
+	
+	<div class="jac-add-button"><a class="jac-links" style="background: url('http://www.chinacno.org/components/com_jacomment/asset/images/comment.png') no-repeat left center; padding-left: 16px;" href="cno-news/381-中央�%2591�%2597%258F�%2590�%259B��%2596%2587�%258C%2596�%2589�%258B乡�%2594%2598�%2582%2583�%258C" title="发表评论">发表评论</a>
+							
+		
+					
+		<span class="jac-count-comment">(0)</span></div>	
+</div>
+<div class="item">
+
+		<div class="icon email"><a href="../component/mailto/index.html?tmpl=component&amp;template=yoo_studio&amp;link=01d737adee9ce29b57a579902dedc616fed986f7" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="http://www.chinacno.org/media/system/images/emailButton.png" alt="Email"  /></a></div>
+	
+		<div class="icon print"><a href="cno-news/380-走�%259F��%2582-�%258E��%259C��%2594�%2580%2594�%2596%2587�%258C%2596�%2580%259C�%2589�%258B乡�%2580%259D�%259B�%2594%2598�%2582%2583?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="打印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+	
+		<h1 class="title">
+
+					<a href="cno-news/380-走�%259F��%2582-�%258E��%259C��%2594�%2580%2594�%2596%2587�%258C%2596�%2580%259C�%2589�%258B乡�%2580%259D�%259B�%2594%2598�%2582%2583" title="走基层 接地气—文化“三下乡”进甘肃">走基层 接地气—文化“三下乡”进甘肃</a>
+		
+	</h1>
+	
+		<p class="meta">
+
+		编辑：肖文礼  2013年1月17日 22:44. 发表于 <a href="cno-news.1">团内新闻</a>	
+	
+	</p>
+	
+	
+	<div class="content"><p>
+	来源：新华网&nbsp;&nbsp; 新华社记者 张锰 摄</p>
+<p>
+	1月13日至17日，中央民族乐团&ldquo;三下乡&rdquo;慰问演出团受文化部委托，来到甘肃省天水市、定西市为当地农民群众送上经典的歌曲和器乐曲演奏，展示优秀民族音乐的魅力。这些技艺精湛、功底深厚的一线文艺工作者在为农民群众送上精美绝伦的文化大餐的同时，也从观众的热情中丰富了自身的艺术阅历，增强了艺术工作者的责任感。</p>
+</div>
+
+
+		<p class="links">
+	
+		
+		<a href="cno-news/380-走�%259F��%2582-�%258E��%259C��%2594�%2580%2594�%2596%2587�%258C%2596�%2580%259C�%2589�%258B乡�%2580%259D�%259B�%2594%2598�%2582%2583" title="走基层 接地气—文化“三下乡”进甘肃">
+			阅读全文		</a>
+		
+	</p>
+	
+	
+	<div class="jac-add-button"><a class="jac-links" style="background: url('http://www.chinacno.org/components/com_jacomment/asset/images/comment.png') no-repeat left center; padding-left: 16px;" href="cno-news/380-走�%259F��%2582-�%258E��%259C��%2594�%2580%2594�%2596%2587�%258C%2596�%2580%259C�%2589�%258B乡�%2580%259D�%259B�%2594%2598�%2582%2583" title="发表评论">发表评论</a>
+							
+		
+					
+		<span class="jac-count-comment">(0)</span></div>	
+</div>
+<div class="item">
+
+		<div class="icon email"><a href="../component/mailto/index.html?tmpl=component&amp;template=yoo_studio&amp;link=66da476e590255f163562696d9309937ae95dc6c" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="http://www.chinacno.org/media/system/images/emailButton.png" alt="Email"  /></a></div>
+	
+		<div class="icon print"><a href="cno-news/379-�%2591�%2590�%2598��%2588%2591们�%2585��%2590%258C�%259A%2584�%2596%2587�%258C%2596符�%258F�?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="打印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+	
+		<h1 class="title">
+
+					<a href="cno-news/379-�%2591�%2590�%2598��%2588%2591们�%2585��%2590%258C�%259A%2584�%2596%2587�%258C%2596符�%258F�" title="民乐是我们共同的文化符号">民乐是我们共同的文化符号</a>
+		
+	</h1>
+	
+		<p class="meta">
+
+		编辑：肖文礼  2013年1月16日 11:57. 发表于 <a href="cno-news.1">团内新闻</a>	
+	
+	</p>
+	
+	
+	<div class="content"><p>
+	文化报记者 黎宏河 文/图</p>
+<p>
+	<a href="cno-news/379-�%2591�%2590�%2598��%2588%2591们�%2585��%2590%258C�%259A%2584�%2596%2587�%258C%2596符�%258F�" class="hs thumbnail"><img alt="" class="hs" src="http://www.chinacno.org/images/thumbnails/images-2013-01-taiwan-13917726867845918353-300x200.jpg" style="width: 300px; height: 200px;  width: 300px;" /></a>&nbsp;&nbsp;<a href="cno-news/379-�%2591�%2590�%2598��%2588%2591们�%2585��%2590%258C�%259A%2584�%2596%2587�%258C%2596符�%258F�" class="hs thumbnail"><img alt="" class="hs" src="http://www.chinacno.org/images/thumbnails/images-2013-01-taiwan-9974638039102800770-300x200.jpg" style="width: 300px; height: 200px;  width: 300px;" /></a></p>
+</div>
+
+
+		<p class="links">
+	
+		
+		<a href="cno-news/379-�%2591�%2590�%2598��%2588%2591们�%2585��%2590%258C�%259A%2584�%2596%2587�%258C%2596符�%258F�" title="民乐是我们共同的文化符号">
+			阅读全文		</a>
+		
+	</p>
+	
+	
+	<div class="jac-add-button"><a class="jac-links" style="background: url('http://www.chinacno.org/components/com_jacomment/asset/images/comment.png') no-repeat left center; padding-left: 16px;" href="cno-news/379-�%2591�%2590�%2598��%2588%2591们�%2585��%2590%258C�%259A%2584�%2596%2587�%258C%2596符�%258F�" title="发表评论">发表评论</a>
+							
+		
+					
+		<span class="jac-count-comment">(0)</span></div>	
+</div>
+<div class="item">
+
+		<div class="icon email"><a href="../component/mailto/index.html?tmpl=component&amp;template=yoo_studio&amp;link=18ed83e336b1a5cbe7644595990efa1bbe74999a" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="http://www.chinacno.org/media/system/images/emailButton.png" alt="Email"  /></a></div>
+	
+		<div class="icon print"><a href="cno-news/378-�%2580%258A�%2589��%258C�%258C�%2580%258B�%259F��%2590�%259A�%2588%2590�%258A%259F�%258A�%2594?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="打印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+	
+		<h1 class="title">
+
+					<a href="cno-news/378-�%2580%258A�%2589��%258C�%258C�%2580%258B�%259F��%2590�%259A�%2588%2590�%258A%259F�%258A�%2594" title="《艳歌行》音乐会成功上演">《艳歌行》音乐会成功上演</a>
+		
+	</h1>
+	
+		<p class="meta">
+
+		编辑：肖文礼  2013年1月14日 13:27. 发表于 <a href="cno-news.1">团内新闻</a>	
+	
+	</p>
+	
+	
+	<div class="content"><p>
+	2013年1月10日，由中央民族乐团刘沙执棒，合唱队与喜洋洋室内乐团共同出演的《艳歌行》音乐会在国家大剧院音乐厅成功上演。</p>
+</div>
+
+
+		<p class="links">
+	
+		
+		<a href="cno-news/378-�%2580%258A�%2589��%258C�%258C�%2580%258B�%259F��%2590�%259A�%2588%2590�%258A%259F�%258A�%2594" title="《艳歌行》音乐会成功上演">
+			阅读全文		</a>
+		
+	</p>
+	
+	
+	<div class="jac-add-button"><a class="jac-links" style="background: url('http://www.chinacno.org/components/com_jacomment/asset/images/comment.png') no-repeat left center; padding-left: 16px;" href="cno-news/378-�%2580%258A�%2589��%258C�%258C�%2580%258B�%259F��%2590�%259A�%2588%2590�%258A%259F�%258A�%2594" title="发表评论">发表评论</a>
+							
+		
+					
+		<span class="jac-count-comment">(0)</span></div>	
+</div>
+<div class="item">
+
+		<div class="icon email"><a href="../component/mailto/index.html?tmpl=component&amp;template=yoo_studio&amp;link=72da4c2290bc085a3ddd3e4ac6cf2e18faa28dd0" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="http://www.chinacno.org/media/system/images/emailButton.png" alt="Email"  /></a></div>
+	
+		<div class="icon print"><a href="http://www.chinacno.org/news/cno-news/376-听到《茉莉花》，仿佛又回到了故乡——中央民族乐团两岸交流音乐会《泱泱国风》高雄巡演侧记?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="打印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+	
+		<h1 class="title">
+
+					<a href="cno-news/376-�%2590��%2588��%2580%258A�%258C%2589�%258E%2589�%258A��%2580%258B�%258C仿�%259B�%258F%2588�%259B%259E�%2588��%2586�%2595%2585乡�%2580%2594�%2580%2594中央�%2591�%2597%258F�%2590�%259B�两岸交�%2581�%259F��%2590�%259A�%2580%258A泱泱�%259B��%258E�%2580%258B�%2598�%259B%2584巡�%2594侧记" title="听到《茉莉花》，仿佛又回到了故乡——中央民族乐团两岸交流音乐会《泱泱国风》高雄巡演侧记">听到《茉莉花》，仿佛又回到了故乡——中央民族乐团两岸交流音乐会《泱泱国风》高雄巡演侧记</a>
+		
+	</h1>
+	
+		<p class="meta">
+
+		编辑：肖文礼  2013年1月08日 22:06. 发表于 <a href="cno-news.1">团内新闻</a>	
+	
+	</p>
+	
+	
+	<div class="content"><p>
+	来源：中国文化报 作者：黎宏河</p>
+<p>
+	这是一个特殊的场所。</p>
+<p>
+	这是一场与众不同的演出。</p>
+<p>
+	1月5日，台湾高雄市佛光山寺佛陀纪念馆，中央民族乐团两岸交流音乐会《泱泱国风》在此举行。下午两点，佛陀纪念馆大觉堂里，鸣响起中央民族乐团奏出的弓弦之声。这也是佛陀纪念馆自2011年12月25日建成以来，举办的首场民族音乐会。</p>
+<p>
+	佛光山寺是著名的佛教圣地，是南台湾的佛教重镇。由开山宗长星云大师创办的这座大乘佛教寺庙，拥有诸多信众。当天下午的演出，1200多名应邀前来的信众和高雄各界代表人士让大觉堂座无虚席。</p>
+<p>
+	<a href="cno-news/376-�%2590��%2588��%2580%258A�%258C%2589�%258E%2589�%258A��%2580%258B�%258C仿�%259B�%258F%2588�%259B%259E�%2588��%2586�%2595%2585乡�%2580%2594�%2580%2594中央�%2591�%2597%258F�%2590�%259B�两岸交�%2581�%259F��%2590�%259A�%2580%258A泱泱�%259B��%258E�%2580%258B�%2598�%259B%2584巡�%2594侧记" class="hs in-left thumbnail"><img alt="" class="hs in-left" src="http://www.chinacno.org/images/2013/01/taiwan/3.jpg" style="width: 400px; height: 266px" /></a>中央民族乐团团长席强告诉记者，佛教音乐是民族音乐的重要组成部分。选择在佛光山这一佛教圣地交流演出，意在以民乐之间的交流，凝聚两岸之间的文化共识，共叙血浓于水的亲情。</p>
+<p>
+	《泱泱国风》是中央民族乐团创作的一台展示中国不同地区、不同民族代表性音乐风格的音乐会。当天的演出在喜庆祥和的民族管弦乐《春节序曲》中拉开帷幕。由国家一级指挥许知俊执棒的整场演出，曲目包括反映山西风情的《古槐寻根》、维吾尔族风格的《丝绸之路》等。除曲目风格多样外，音乐会在乐器搭配、曲目编排、演出形式等多方面都独具匠心，如二胡与乐队合奏的《二泉映月》等。这些具有鲜明地方特色的音乐作品，让高雄观众深切地感受到了祖国辽阔版图上的泱泱国风。每一首曲目结束，现场皆是掌声雷动。</p>
+<p>
+	此次演出最大的亮点，是中央民族乐团特别为音乐会新创排的4首曲目，这些曲目无一不透露出创作者的良苦用心。《心经》、《慈航普度》两首由台南合唱队与乐团合作的节目，将佛教&ldquo;唱经&rdquo;用民乐加以诠释，以歌声来表达。二胡、大提琴与乐队合奏的《相望》，由厦门的《鼓浪屿之波》与台湾的《绿岛小夜曲》改编而成，其婉转、缠绵的合奏将难舍难分的深情演绎得催人泪下。当音乐会主持人介绍民族管弦乐《茉莉花与望春风》&mdash;&mdash;&ldquo;这首曲目是根据星云大师故乡的民歌《茉莉花》与台湾民歌《望春风》改编而成&rdquo;，现场一片惊呼，观众的兴奋、激动与赞叹也是随着乐曲的激扬迎来高潮。</p>
+<p>
+	当最后一个曲目民族管弦乐《丝绸之路》结束时，观众全体起立，用持续的掌声欢迎乐团继续加演。观众的热情和好客感染了参演的每位艺术家，艺术家们两度返场。</p>
+<p>
+	演出结束后，许多观众久久不愿离去。他们围着艺术家们或签名、或留影、或交流自己的感受。高雄市公司职员徐先生告诉记者，他的祖籍是江苏南京，两年前曾带着年迈的祖父第一次回家探亲，此后，家乡的记忆时常萦绕在他的心间和梦里，今天在这里听到《茉莉花》的乡音，激动得潸然泪下，仿佛又回到了故乡。</p>
+</div>
+
+
+	
+	
+	<div class="jac-add-button"><a class="jac-links" style="background: url('http://www.chinacno.org/components/com_jacomment/asset/images/comment.png') no-repeat left center; padding-left: 16px;" href="cno-news/376-�%2590��%2588��%2580%258A�%258C%2589�%258E%2589�%258A��%2580%258B�%258C仿�%259B�%258F%2588�%259B%259E�%2588��%2586�%2595%2585乡�%2580%2594�%2580%2594中央�%2591�%2597%258F�%2590�%259B�两岸交�%2581�%259F��%2590�%259A�%2580%258A泱泱�%259B��%258E�%2580%258B�%2598�%259B%2584巡�%2594侧记" title="发表评论">发表评论</a>
+							
+		
+					
+		<span class="jac-count-comment">(0)</span></div>	
+</div></div></div>
+	
+		<div class="pagination"><a class="first" href="cno-news?limitstart=0" title="首页">首页</a><a class="previous" href="cno-news?start=12" title="«">«</a><a class="" href="cno-news?limitstart=0" title="1">1</a><a class="" href="cno-news?start=6" title="2">2</a><a class="" href="cno-news?start=12" title="3">3</a><strong>4</strong><a class="" href="cno-news?start=24" title="5">5</a><a class="" href="cno-news?start=30" title="6">6</a><a class="" href="cno-news?start=36" title="7">7</a><a class="" href="cno-news?start=42" title="8">8</a><a class="" href="cno-news?start=48" title="9">9</a><a class="" href="cno-news?start=54" title="10">10</a><a class="next" href="cno-news?start=24" title="»">»</a><a class="last" href="cno-news?start=102" title="末页">末页</a></div>	
+</div>												</div>
+	
+													
+											</div>
+										</div>
+										
+																				
+																				<div id="right" class="sidebar">
+											<div class="module mod-sidebar mod-menu mod-menu-sidebar mod-sidebar-color2  first ">
+
+		
+	<div class="box-1 deepest">
+	
+				<h3 class="header"><span class="header-2"><span class="header-3">分类菜单</span></span></h3>
+				
+		<ul class="menu menu-accordion"><li class="level1 item1 first active current"><a href="cno-news.1" class="level1 item1 first active current"><span class="bg">团内新闻</span></a></li><li class="level1 item2 last"><a href="other-news.1" class="level1 item2 last"><span class="bg">业界新闻</span></a></li></ul>		
+	</div>
+		
+</div><div class="module mod-rounded2 mod-rounded    last">
+
+		
+	<div class="box-t1">
+		<div class="box-t2">
+			<div class="box-t3"></div>
+		</div>
+	</div>
+	
+	<div class="box-1">
+		<div class="box-2">
+			<div class="box-3 deepest">
+			
+								<h3 class="header"><span class="header-2"><span class="header-3">最新评论</span></span></h3>
+								
+				<div id="jac-lasmod45" class="jac-lasmod">	
+	<div class="ja-box-ct clearfix">
+	<ul class="jac-lasmod-main">		
+				<li class="jac-has-layout clearfix">
+							<h4 class="jac-lasmod-title clearfix">
+					<a href="../contact#jacommentid:46">										
+					中央民族乐团常用联系方式
+(1)					</a>
+				</h4>				
+													<span class="jac-lasmod-author">Einheld</span>				
+									<br/>						
+							<div class="jac-mod_content clearfix">
+					<p>
+贵团的网页更新不及时;例如，有的艺术家在去年全国大赛中闯关斩将获得金奖，却没有在个人信息的网页介绍中...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+							<h4 class="jac-lasmod-title clearfix">
+					<a href="../concerts/cno-concerts/gjdjy/427-zhxyzhm#jacommentid:45">										
+					"仲夏夜之梦"音乐会
+(1)					</a>
+				</h4>				
+													<span class="jac-lasmod-author">音乐爱好者</span>				
+									<br/>						
+							<div class="jac-mod_content clearfix">
+					<p>
+非常精彩，难得的一次音乐盛宴！
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+							<h4 class="jac-lasmod-title clearfix">
+					<a href="cno-news/421-中央�%2591�%2597%258F�%2590�%259B��%2580%259C�%2598�%259B%2585�%2589��%259C��%259B校�%259B��%2580%259D�%2593%2588�%2594滨�%258B�%258C#jacommentid:44">										
+					中央民族乐团“高雅艺术进校园”哈尔滨之行...
+(1)					</a>
+				</h4>				
+													<span class="jac-lasmod-author">朱海燕</span>				
+									<br/>						
+							<div class="jac-mod_content clearfix">
+					<p>
+我是黑龙江农垦职业学院的学生   我们现在正在欣赏艺术家们精彩纷呈的演出！十分感谢能让我们这些在校学...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+							<h4 class="jac-lasmod-title clearfix">
+					<a href="cno-news/420-中央�%2591�%2597%258F�%2590�%259B��%2580%259C�%2598�%259B%2585�%2589��%259C��%259B校�%259B��%2580%259D走�%259B�%2586%2585�%2592%2599�%258F�大学纪�%259E#jacommentid:43">										
+					中央民族乐团“高雅艺术进校园”走进内蒙古...
+(1)					</a>
+				</h4>				
+													<span class="jac-lasmod-author">曹茂昌</span>				
+									<br/>						
+							<div class="jac-mod_content clearfix">
+					<p>
+期待来到哈尔滨，哈尔滨欢迎你们。
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+							<h4 class="jac-lasmod-title clearfix">
+					<a href="../concerts/cno-concerts/other-concerts/333-�%2580%259C�%259A洲�%2590�%259B��%2580%259D�%259F��%2590�%259A#jacommentid:42">										
+					“亚洲乐团”音乐会
+(1)					</a>
+				</h4>				
+													<span class="jac-lasmod-author">赵幽灵</span>				
+									<br/>						
+							<div class="jac-mod_content clearfix">
+					<p>
+来法国吧~~~好想听87红楼梦组曲现场版哦~~~~~
+</p>
+				</div>
+																						
+		</li>	
+						
+	</ul>	
+	</div>
+</div>				
+				
+			</div>
+		</div>
+	</div>
+
+	<div class="box-b1">
+		<div class="box-b2">
+			<div class="box-b3"></div>
+		</div>
+	</div>
+		
+</div>										</div>
+																		
+									</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+	
+				<div class="content-wrapper-b1">
+					<div class="content-wrapper-b2">
+						<div class="content-wrapper-b3"></div>
+					</div>
+				</div>
+	
+			</div>
+		</div>
+	</div>
+
+	<div id="page-footer">
+		<div class="wrapper">
+
+			
+						<div id="footer">
+
+				<a class="anchor" href="cno-news.1#page"></a>
+				<ul class="menu"><li class="level1 item1 first"><a href="../index.html" class="level1 item1 first"><span class="bg">首页</span></a></li><li class="level1 item2"><a href="../news.1" class="level1 item2"><span class="bg">新闻</span></a></li><li class="level1 item3"><a href="../concerts.1" class="level1 item3"><span class="bg">演出</span></a></li><li class="level1 item4"><a href="../contact" class="level1 item4"><span class="bg">联系</span></a></li><li class="level1 item5"><a href="cno-news.1#" class="level1 item5"><span class="bg">招聘</span></a></li><li class="level1 item6 last"><a href="../search" class="level1 item6 last"><span class="bg">搜索</span></a></li></ul><div class="custom">
+	<p>
+	演出中心电话：（010）64957435，13701226911<br />
+	网络中心电话：（010）64933821,13671308176<br />
+	备案许可证编号：京ICP备12002418号<br />
+	Copyright &copy; 2011 ChinaCNO.org</p>
+</div>				
+			</div>
+			<!-- footer end -->
+						
+		</div>
+	</div>
+        </body>
+</html>

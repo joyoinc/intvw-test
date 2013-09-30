@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn" lang="zh-cn" dir="ltr" >
+<head>
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="keywords" content="" />
+  <meta name="rights" content="" />
+  <meta name="language" content="zh-CN" />
+  <meta name="title" content="中央民族乐团成立留影纪念" />
+  <meta name="author" content="肖文礼" />
+  <meta name="generator" content="Joomla! 1.6 - Open Source Content Management" />
+  <title>中央民族乐团 - 中央民族乐团成立留影纪念</title>
+  <link href="http://www.chinacno.org/templates/yoo_studio/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.chinacno.org/plugins/content/mavikthumbnails/mavikthumbnails/highslide/highslide.css" type="text/css" />
+  <script src="http://www.chinacno.org/media/system/js/core.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/plugins/content/mavikthumbnails/mavikthumbnails/highslide/highslide-with-gallery.packed.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+			// Add the controlbar
+			hs.addSlideshow({
+				slideshowGroup: "143",
+				interval: 5000,
+				repeat: false,
+				useControls: true,
+				fixedControls: "fit",
+				overlayOptions: {
+					opacity: 0.75,
+					position: "bottom center",
+					hideOnMouseOut: true
+				}
+			});
+		
+				hs.graphicsDir = "/plugins/content/mavikthumbnails/mavikthumbnails/highslide/graphics/"
+				hs.align = "center";
+				hs.transitions = ["expand"];
+				hs.outlineType = "rounded-white";
+				hs.fadeInOut = false;
+				hs.showCredits = false;
+				//hs.dimmingOpacity = 0.75;
+			
+  </script>
+  <!--[if lte IE 6]>
+					<link href="/plugins/content/mavikthumbnails/mavikthumbnails/highslide/highslide-ie6.css" rel="stylesheet" type="text/css" />
+				<![endif]-->
+
+<link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/popups.css" type="text/css" />
+</head>
+<body class="contentpane">
+	
+	
+<div id="system" class="">
+
+	
+	<div class="item">
+
+					<div class="icon printscreen"><a href="143-中央�%2591�%2597%258F�%2590�%259B��%2588%2590�%258B�%2595%2599影纪念#" onclick="window.print();return false;"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+		
+				<h1 class="title">
+
+							<a href="143-中央�%2591�%2597%258F�%2590�%259B��%2588%2590�%258B�%2595%2599影纪念">中央民族乐团成立留影纪念</a>
+							
+		</h1>
+				
+				<p class="meta">
+	
+			编辑：肖文礼  1960年5月08日. 发表于 <a href="../history.1">历史的记忆</a>	
+		
+		</p>
+		
+		
+		<div class="content">
+		<a class="thumbnail highslide" style="" href="http://www.chinacno.org/images/2011/05/history/zhongyangminzuyuetuanchengli.jpg" onclick='return hs.expand(this, { captionText: "", slideshowGroup: "143" })'><img alt="" class="hs" src="http://www.chinacno.org/images/thumbnails/images-2011-05-history-zhongyangminzuyuetuanchengli-650x100.jpg" style="width: 700px; height: 100px;  width: 650px;" /></a> 		</div>
+
+		
+			
+	</div>
+
+</div>
+</body>
+</html>

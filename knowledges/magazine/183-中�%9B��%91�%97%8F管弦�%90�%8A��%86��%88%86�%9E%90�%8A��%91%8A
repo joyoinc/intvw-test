@@ -1,0 +1,1009 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn" lang="zh-cn" dir="ltr" >
+<head>
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="rights" content="" />
+  <meta name="language" content="zh-CN" />
+  <meta name="title" content="中国民族管弦乐状况分析报告" />
+  <meta name="author" content="黄程宜" />
+  <meta name="generator" content="Joomla! 1.6 - Open Source Content Management" />
+  <title>中央民族乐团 - 中国民族管弦乐状况分析报告</title>
+  <link href="http://www.chinacno.org/templates/yoo_studio/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.chinacno.org/components/com_jacomment/asset/css/ja.popup.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/components/com_jacomment/asset/css/ja.comment.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/components/com_jacomment/themes/default/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/components/com_jacomment/asset/css/atd.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/reset.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/menus.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/modules.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/extensions.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/variations/red.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/custom.css" type="text/css" />
+  <style type="text/css">
+
+	     #jac-wrapper .plugin_embed .smileys,.jac-mod_content .smileys{
+            top: 17px;
+        	background:#ffea00;
+            clear:both;
+            height:84px;
+            width:105px;	            
+            padding:2px 1px 1px 2px !important;
+            position:absolute;
+            z-index:51;
+            -webkit-box-shadow:0 1px 3px #999;box-shadow:1px 2px 3px #666;-moz-border-radius:2px;-khtml-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;
+        }        
+        #jac-wrapper .plugin_embed .smileys li,.jac-mod_content .smileys li{
+            display: inline;
+            float: left;
+            height:20px;
+            width:20px;
+            margin:0 1px 1px 0 !important;
+            border:none;
+            padding:0
+        }
+        #jac-wrapper .plugin_embed .smileys .smiley,.jac-mod_content .smileys .smiley{
+            background: url(http://www.chinacno.org/components/com_jacomment/asset/images/smileys/modern/smileys_bg.png) no-repeat;
+            display:block;
+            height:20px;
+            width:20px;
+        }
+        #jac-wrapper .plugin_embed .smileys .smiley:hover,.jac-mod_content .smileys .smiley:hover{
+            background:#fff;
+        }
+        #jac-wrapper .plugin_embed .smileys .smiley span, .jac-mod_content .smileys .smiley span{
+            background: url(http://www.chinacno.org/components/com_jacomment/asset/images/smileys/modern/smileys.png) no-repeat;
+            display: inline;
+            float: left;
+            height:12px;
+            width:12px;
+            margin:4px !important;
+        }
+        #jac-wrapper .plugin_embed .smileys .smiley span span, .jac-mod_content .smileys .smiley span span{
+            display: none;
+        } 
+        #jac-wrapper .comment-text .smiley {
+            font-family:inherit;
+			font-size:100%;
+			font-style:inherit;
+			font-weight:inherit;
+			text-align:justify;
+        }
+        #jac-wrapper .comment-text .smiley span, .jac-mod_content .smiley span{
+            background: url(http://www.chinacno.org/components/com_jacomment/asset/images/smileys/modern/smileys.png) no-repeat scroll 0 0 transparent;
+			display:inline;
+			float:left;
+			height:12px;
+			margin:4px !important;
+			width:12px;
+        }
+        .comment-text .smiley span span,.jac-mod_content .smiley span span{
+            display:none;
+        }
+	.wrapper { width: 1000px; }
+#main-shift { margin-right: 280px; }
+#right { width: 280px; margin-left: -280px; }
+#menu .dropdown { width: 180px; }
+#menu .columns2 { width: 360px; }
+#menu .columns3 { width: 540px; }
+#menu .columns4 { width: 720px; }
+
+  </style>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/libraries/jquery/jquery.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/core.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/components/com_jacomment/asset/js/jquery-1.4.2.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/components/com_jacomment/asset/js/ja.comment.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/components/com_jacomment/asset/js/ja.popup.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/components/com_jacomment/libs/js/atd/jquery.atd.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/components/com_jacomment/libs/js/atd/csshttprequest.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/components/com_jacomment/libs/js/atd/atd.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/js/warp.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/js/accordionmenu.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/js/dropdownmenu.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/js/template.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/templates/yoo_studio/warp/js/search.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+			// Add the controlbar
+			hs.addSlideshow({
+				slideshowGroup: "183",
+				interval: 5000,
+				repeat: false,
+				useControls: true,
+				fixedControls: "fit",
+				overlayOptions: {
+					opacity: 0.75,
+					position: "bottom center",
+					hideOnMouseOut: true
+				}
+			});
+		var Warp = Warp || {}; Warp.Settings = { tplurl: '/templates/yoo_studio', color: 'red' };function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });
+			// Add the controlbar
+			hs.addSlideshow({
+				slideshowGroup: "",
+				interval: 5000,
+				repeat: false,
+				useControls: true,
+				fixedControls: "fit",
+				overlayOptions: {
+					opacity: 0.75,
+					position: "bottom center",
+					hideOnMouseOut: true
+				}
+			});
+		
+			// Add the controlbar
+			hs.addSlideshow({
+				slideshowGroup: "",
+				interval: 5000,
+				repeat: false,
+				useControls: true,
+				fixedControls: "fit",
+				overlayOptions: {
+					opacity: 0.75,
+					position: "bottom center",
+					hideOnMouseOut: true
+				}
+			});
+		
+  </script>
+
+<link rel="apple-touch-icon" href="http://www.chinacno.org/templates/yoo_studio/apple_touch_icon.png" />
+</head>
+
+<body id="page" class="yoopage  column-right ">
+
+	
+	<div id="page-body">
+		<div class="page-body-img">
+			<div class="wrapper">
+	
+				<div id="header">
+	
+					<div id="toolbar">
+					
+												<div id="date">
+							<div class="module mod-toolbar"><div class="box-1"><div class="box-2"><div class="box-3 deepest">
+								2013年9月27日 星期五							</div></div></div></div>
+						</div>
+											
+												
+												<div class="right">
+							<div class="module mod-toolbar   first last">
+
+		
+	<div class="box-1">
+		<div class="box-2">
+			<div class="box-3 deepest">
+			
+								
+				<form action="../magazine.1" method="post" id="login-form" >
+	<span class="pretext"></span>
+	<span class="xx">用户名 <input id="modlgn-username" type="text" name="username" class="inputbox"  size="10" /></span>
+	<span class="xx">密码 <input id="modlgn-passwd" type="password" name="password" class="inputbox" size="10" /></span>
+		<span class="xx">记住我 <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes" checked="checked" /></span>
+		<input type="submit" name="Submit" class="button" value="登录" />
+	<input type="hidden" name="option" value="com_users" />
+	<input type="hidden" name="task" value="user.login" />
+	<input type="hidden" name="return" value="aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MTgzJkl0ZW1pZD0xNzY=" />
+	<input type="hidden" name="d7b958679db30c31b23928527d5fe582" value="1" />	<span class="posttext">忘记<a href="../../component/users/index.html?view=reset&amp;Itemid=">密码</a>/<a href="../../component/users/index.html?view=remind&amp;Itemid=">用户名</a>? 还没<a href="../../component/users/index.html?view=registration&amp;Itemid=">注册</a>?</span>
+</form>
+				
+			</div>
+		</div>
+	</div>
+		
+</div>						</div>
+												
+					</div>
+	
+								
+					<div id="headerbar">
+	
+												
+												<div class="right">
+							<div class="module mod-blank   first last">
+
+	
+		
+	
+	
+
+
+
+<div class="saying">
+	路是脚踏出来的，历史是人写出来的。人的每一步行动都在书写自己的历史。 &mdash;&mdash; 吉鸿昌</div>
+
+		
+</div>						</div>
+												
+					</div>
+	
+							
+					<div id="logo">
+						<div class="custom">
+	<div style="margin-top: 10px;">
+	<a href="../../index.php" target="_parent"><img alt="中央民族乐团" class="correct-png" height="80" src="http://www.chinacno.org/images/logo.png" title="中央民族乐团" width="300" /></a></div>
+</div>					</div>
+					
+						
+				</div>
+				<!-- header end -->
+	
+	
+					
+				<div class="menubar">
+	
+										<div id="menu">
+                        <ul class="menu menu-dropdown"><li class="level1 item1 first"><a href="../../index.html" class="level1 item1 first"><span class="bg"><span class="title">首页</span><span class="subtitle">Home</span></span></a></li><li class="level1 item2 parent"><a href="../../about-us.1" class="level1 item2 parent"><span class="bg"><span class="title">我们</span><span class="subtitle">About us</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../about-us/leaders.1" class="level2 item1 first"><span class="bg">现任领导</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2 separator parent"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><span class="level2 item2 separator parent"><span class="bg">我们的声部</span></span></div></div></div></div><div class="sub"><ul class="level3"><li class="level3 item1 first"><a href="../../about-us/teams/zhihui.1" class="level3 item1 first"><span class="bg">指挥</span></a></li><li class="level3 item2"><a href="../../about-us/teams/chuiguan.1" class="level3 item2"><span class="bg">吹管</span></a></li><li class="level3 item3"><a href="../../about-us/teams/laxian.1" class="level3 item3"><span class="bg">拉弦</span></a></li><li class="level3 item4"><a href="../../about-us/teams/tanbo.1" class="level3 item4"><span class="bg">弹拨</span></a></li><li class="level3 item5"><a href="../../about-us/teams/daji.1" class="level3 item5"><span class="bg">打击</span></a></li><li class="level3 item6"><a href="../../about-us/teams/nvgao.1" class="level3 item6"><span class="bg">女高</span></a></li><li class="level3 item7"><a href="../../about-us/teams/nvzhong" class="level3 item7"><span class="bg">女中</span></a></li><li class="level3 item8"><a href="../../about-us/teams/nangao.1" class="level3 item8"><span class="bg">男高</span></a></li><li class="level3 item9 last"><a href="../../about-us/teams/nanzhong.1" class="level3 item9 last"><span class="bg">男中</span></a></li></ul></div></div></div></div></div></div></li><li class="level2 item3 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../about-us/history.1" class="level2 item3 last"><span class="bg">历史的记忆</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item3 parent"><a href="../../news.1" class="level1 item3 parent"><span class="bg"><span class="title">新闻</span><span class="subtitle">News</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../news/cno-news.1" class="level2 item1 first"><span class="bg">团内新闻</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../news/other-news.1" class="level2 item2 last"><span class="bg">业界新闻</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item4 parent"><a href="../../concerts.1" class="level1 item4 parent"><span class="bg"><span class="title">演出</span><span class="subtitle">Concerts</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first parent"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../concerts/cno-concerts.1" class="level2 item1 first parent"><span class="bg">团内演出</span></a></div></div></div></div><div class="sub"><ul class="level3"><li class="level3 item1 first"><a href="../../concerts/cno-concerts/mzyyt.1" class="level3 item1 first"><span class="bg">民族音乐厅音乐会</span></a></li><li class="level3 item2"><a href="../../concerts/cno-concerts/gjdjy.1" class="level3 item2"><span class="bg">国家大剧院音乐会</span></a></li><li class="level3 item3 last"><a href="../../concerts/cno-concerts/other-concerts.1" class="level3 item3 last"><span class="bg">其它音乐会</span></a></li></ul></div></div></div></div></div></div></li><li class="level2 item2 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../concerts/other-concerts.1" class="level2 item2 last"><span class="bg">其它演出</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="active level1 item5 parent"><a href="../../knowledges.1" class="level1 item5 parent active"><span class="bg"><span class="title">知识</span><span class="subtitle">Knowledges</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first parent"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../instruments.1" class="level2 item1 first parent"><span class="bg">民族器乐</span></a></div></div></div></div><div class="sub"><ul class="level3"><li class="level3 item1 first"><a href="../instruments/�%2590�.1" class="level3 item1 first"><span class="bg">吹</span></a></li><li class="level3 item2"><a href="../instruments/�%258B%2589.1" class="level3 item2"><span class="bg">拉</span></a></li><li class="level3 item3"><a href="../instruments/弹.1" class="level3 item3"><span class="bg">弹</span></a></li><li class="level3 item4 last"><a href="../instruments/�%2589%2593.1" class="level3 item4 last"><span class="bg">打</span></a></li></ul></div></div></div></div></div></div></li><li class="level2 item2"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../academic.1" class="level2 item2"><span class="bg">学术共享</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item3 last active current"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../magazine.1" class="level2 item3 last active current"><span class="bg">《锦瑟》</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item6 parent"><a href="../../comments.1" class="level1 item6 parent"><span class="bg"><span class="title">评论</span><span class="subtitle">Comments</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../comments/music.1" class="level2 item1 first"><span class="bg">乐评</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../comments/books.1" class="level2 item2"><span class="bg">书评</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item3 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../comments/artists.1" class="level2 item3 last"><span class="bg">人物</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item7 parent"><a href="../../issues.1" class="level1 item7 parent"><span class="bg"><span class="title">出版</span><span class="subtitle">Issues</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../issues/discs.1" class="level2 item1 first"><span class="bg">碟讯</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../issues/books.1" class="level2 item2 last"><span class="bg">书讯</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li><li class="level1 item8 last parent"><a href="../../forums.1" class="level1 item8 last parent"><span class="bg"><span class="title">三坛映乐</span><span class="subtitle">Forums</span></span></a><div class="dropdown columns1"><div class="dropdown-t1"><div class="dropdown-t2"><div class="dropdown-t3"></div></div></div><div class="dropdown-1"><div class="dropdown-2"><div class="dropdown-3"><ul class="col1 level2 first last"><li class="level2 item1 first"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../forums/recent-topics" class="level2 item1 first"><span class="bg">最新话题</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item2"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../forums/category-index.1" class="level2 item2"><span class="bg">板块列表</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item3"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../forums/profile.1" class="level2 item3"><span class="bg">个人信息</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item4"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../forums/help-page" class="level2 item4"><span class="bg">使用帮助</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item5"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../forums/rules-page" class="level2 item5"><span class="bg">论坛规则</span></a></div></div></div></div></div></div></div></div></div></li><li class="level2 item6 last"><div class="group-box1"><div class="group-box2"><div class="group-box3"><div class="group-box4"><div class="group-box5"><div class="hover-box1"><div class="hover-box2"><div class="hover-box3"><div class="hover-box4"><a href="../../forums/search" class="level2 item6 last"><span class="bg">搜索论坛</span></a></div></div></div></div></div></div></div></div></div></li></ul></div></div></div><div class="dropdown-b1"><div class="dropdown-b2"><div class="dropdown-b3"></div></div></div></div></li></ul>					</div>
+						
+										<div id="search" class="sidebar-search">
+						
+<div id="searchbox">
+	<form action="http://www.chinacno.org/knowledges/magazine/index.php" method="post" role="search">
+		<button class="magnifier" type="submit" value="Search"></button>
+		<input type="text" value="" name="searchword" placeholder="搜索..." />
+		<button class="reset" type="reset" value="Reset"></button>
+		<input type="hidden" name="task"   value="search" />
+		<input type="hidden" name="option" value="com_search" />
+	</form>
+</div>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$('#searchbox input[name=searchword]').search({'url': 'index.php?option=com_search&tmpl=raw&type=json&ordering=&searchphrase=all', 'param': 'searchword', 'msgResultsHeader': '搜索结果', 'msgMoreResults': '更多结果', 'msgNoResults': '未找到'}).placeholder();
+});
+</script>					</div>
+										
+					<div class="content-wrapper-t1">
+						<div class="content-wrapper-t2">
+							<div class="content-wrapper-t3"></div>
+						</div>
+					</div>
+					
+				</div>
+				
+				<div class="content-wrapper-1">
+					<div class="content-wrapper-2">
+						<div class="content-wrapper-3">
+							<div class="content-wrapper-4">
+					
+								<div id="middle">
+									<div id="middle-expand">
+					
+										<div id="main">
+											<div id="main-shift">
+	
+																								<div id="breadcrumbs">
+													<div class="breadcrumbs"><a href="../../index.html" class="box-1"><span class="box-2"><span class="box-3">首页</span></span></a><a href="../../knowledges.1" class="box-1"><span class="box-2"><span class="box-3">知识</span></span></a><a href="../magazine.1" class="box-1"><span class="box-2"><span class="box-3">《锦瑟》</span></span></a><span class="current box-1"><span class="box-2"><span class="box-3">中国民族管弦乐状况分析报告</span></span></span></div>												</div>
+													
+													
+												<div class="component-bg floatbox last">
+													
+													
+
+<div id="system" class="">
+
+	
+	<div class="item">
+
+								<div class="icon email"><a href="../../component/mailto/index.html?tmpl=component&amp;template=yoo_studio&amp;link=b9c73022ab045d6af482466ab81f8d17e63fa764" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="http://www.chinacno.org/media/system/images/emailButton.png" alt="Email"  /></a></div>
+					
+						<div class="icon print"><a href="183-中�%259B��%2591�%2597%258F管弦�%2590�%258A��%2586��%2588%2586�%259E%2590�%258A��%2591%258A?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="打印" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+					
+				<h1 class="title">
+
+							<a href="183-中�%259B��%2591�%2597%258F管弦�%2590�%258A��%2586��%2588%2586�%259E%2590�%258A��%2591%258A">中国民族管弦乐状况分析报告</a>
+							
+		</h1>
+				
+				<p class="meta">
+	
+			编辑：黄程宜  2011年11月24日. 发表于 <a href="../magazine.1">《锦瑟》</a>	
+		
+		</p>
+		
+		
+		<div class="content">
+		<h4>
+	作者：席强</h4>
+<p>
+	一、全国民族乐团（队）分布情况</p>
+<p>
+	中国目前各种编制的民族乐团（队）有以下几种类型：</p>
+ 
+<p>
+	（一）国家政府投入的大型国有事业体制的专业民族乐团：1、中央民族乐团；2、中国广播民族乐团；3、中国歌剧舞剧院民族乐团；4、上海民族乐团；5、济南前卫民族乐团。</p>
+<p>
+	（二）&nbsp;各省、市、自治区歌舞剧院（团）所属的民族乐队演变而成的民族乐团1、广东省民族乐团；2、天津民族乐团；3、北京歌舞剧院民族乐团；4、江苏演艺集团民&nbsp;族乐团；5、南京民族乐团；6、浙江民族乐团；7、黑龙江省民族乐团；8、吉林民族乐团；9、辽宁民族乐团；10、湖北省民族乐团；11、成都民族乐&nbsp;团；12、山东省民族乐团；13、陕西民族乐团；14、安徽民族乐团；15、福建民族乐团。</p>
+<p>
+	（三）全国各地方根据不同特点而组建的民族乐团：1、江苏女子民族乐团（连云港）；2、广东珠海女子中乐团；3、湖北编钟乐舞民族乐团。</p>
+<p>
+	（四）全国音乐艺术院校所属的学生民族乐团1、中国青年、少年民族乐团（中央音乐学院）；2、中国华夏民族乐团、中国青少年弹拨乐团（中国音乐学院）。</p>
+<p>
+	以上四类不同规模和组合的民族乐团，除一小部分有拥独立建制外，大部分都由各省市歌舞剧院（团）临时组合演变而成，就是说，在剧院需要担任歌舞剧目演出时，&nbsp;是伴奏乐队，并不是专业性很强、按现代乐队体制要求训练、演出的乐队管理体系。这部分乐队，主要受上世纪90年代末中央民族乐团首次赴奥地利维也纳金色大&nbsp;厅的成功带来的轰动效应所影响、逐步在歌舞剧院（团）伴奏乐队基础上扩大编制，或将省市内几个不同演出团体的演奏人员集中起来，临时组合成大型民族乐团。&nbsp;管理较松散，缺乏专业性，规格和水平上参差不齐。</p>
+<p>
+	二、民乐的现状</p>
+<p>
+	我国现有的各类民族乐团，演出市场的占有率很低，与其它艺术类相比较还有很大差距，除一部分热爱民乐、喜欢演奏民乐的观众，大部分人对民乐并无太大兴趣，原因主要有以下几个方面：</p>
+<p>
+	第一、行业的单一性特点使民乐演出市场无法做大做强。由于民族乐团以音乐会的表演形式进行市场化经营，特别是以民族器乐这类比较传统、且富高雅性的形式，在&nbsp;今天社会多元化的格局中，很难让一般观众产生兴趣。又因为，目前大众文化需求，偏重娱乐性视觉效应，所以，传统类型的演出，很难在市场中占有主导地位。另&nbsp;一方面，面对音乐厅的高票价，以及宣传、推广方面缺乏专业的经营团队，使得票房销售回报率低，造成民族乐团演出市场票房跟不上，经济收入少，演出不景气。</p>
+<p>
+	第二、院团事业经费严重不足，经营步履艰难。作为高雅艺术表演团体，民族乐团的商业化，很难在演出市场中得到扩展，目前从中央院、团到各地不同的民乐团队，&nbsp;国家在财政经费上略有扶持和政策性拨付，对于一个不能靠演出市场赢得资本经费的事业团体来讲，有限的事业经费很难维系日常开销。另一方面，今天的乐团编制&nbsp;已不同于过去，演出曲目大多以中、小型演奏形式为主，随着发展壮大，民族管弦乐队的正常编制，大多都已达到80&mdash;90人规模，与西方交响乐体制基本一致。&nbsp;作为大型民乐整体表现力和声部组合的科学性与规模化，已形成较好的艺术感染力。编制齐全，事业经费空额很大，有些团体由于是歌舞剧院所属的二级分团，除正&nbsp;常人员经费外，经营与管理事业经费严重不足，无法保证事业正常发展。</p>
+<p>
+	通过调研，我们了解到，各民族乐团从业人员收入与其它艺术类行业人员收入相比较普遍偏低，很多演奏员为了提高收入，工作之余进入中、小学校进行乐器辅导教&nbsp;学，业余收入普遍高于乐团工资，使本该专心致力于事业的队伍，人心涣散，精力大多放在业余教学上。这对发展民乐事业来讲，是人才和资源上的浪费，也起不到&nbsp;真正发展民族音乐的重任，对国家文化是一种损失，应引起政府部门的重视。</p>
+<p>
+	第三、演出市场中缺乏优秀的民族管弦乐作品。专业创作，偏离大众，需要转变唯技术至上观念来扭转大众对民乐的&ldquo;不好听&rdquo;印象。大型民族管弦乐队是伴随着新中&nbsp;国的成立建立起来的，短短六十年里，虽然积累和创作了一大批作品，但经典并不多，特别是目前能够得到广大观众喜闻乐见的具有代表性的优秀作品不多，近几十&nbsp;年创作的大部分作品，主要存在以下几个问题：1.将民族管弦乐按西方交响乐思维和模式去写作，使得音乐语言背离民族器乐的传统特性，丢弃了中国音乐特有的&nbsp;旋律美、韵律美、意境美，使乐队成为艺术风格上既没有中国音乐特色，又缺乏西方交响音乐的严谨和谐，形成作品既没有特色又不好听的现状。2.今天民族管弦&nbsp;乐曲创作实际上面临着如何与时俱进，如何创新的问题。新型民族管弦乐队，既有现代音乐模式产生的新型体制，又具有几千年中华文化的传统，今天的传承中，无&nbsp;疑是中国文化的历史延续，同时兼顾现代民族文化复兴的重任。几十年的探索与发展，民族管弦乐创作面临的困境是，语言晦涩生僻，很多以实验性、摸索性为主，&nbsp;还有一部分是不熟悉民族音乐和乐器，甚至把西方交响乐队配器手法直接运用到民乐中来的作品。导致作品既不符合民族音乐特点、又失去观众欣赏需求。观众既看&nbsp;不懂又听不明白，这对民族管弦乐艺术的普及与推广无疑是雪上加霜。</p>
+<p>
+	第四、民族器乐曲创作需要在教育体制和机制上转变教学观念。目前民族管弦乐曲的创作已经进入专业化阶段，形成市场中的主导地位。今天，全国的民族乐团在曲&nbsp;目上除一些改编与移植的经典作品外，大部分曲目为新创，作者大都是各音乐院校培养出来的专职作曲家。也就是说，过去大部分乐曲出自演奏家兼作曲家的传统已&nbsp;逐渐消失。当代民族音乐家刘文金先生从小学习各种民族乐器，对二胡有深入研究，自小受家乡民间音乐熏陶，对传统十分熟悉，以致青年时期就能以乡音写出感人&nbsp;至深的《豫北叙事曲》以及后来具有里程碑意义的《长城随想》。</p>
+<p>
+	所以，民族器乐曲的创作，自古以来就与流传、表演融为一体，这种特点自然要求音乐家首先是一名懂乐器、懂演奏、有深厚民间音乐基础的内行，才能在创作中写出&nbsp;富有灵性与泥土香的音乐。目前培养的大部分专职作曲者，在学校学的作曲技术和理论，以西方音乐观念和标准为主，对民族音乐创作缺乏知识和情感，尤其不了解&nbsp;乐器演奏法，更不用说驾驭乐队配器。最严重的是，对民族音乐了解甚少，对各地方民间音乐、传统戏曲、曲艺、说唱音乐的掌握缺乏深度，不能有机的将民族音乐&nbsp;融入创作。在此前提下，培养出来的作曲家队伍，以西方音乐知识和技法为先导，不懂得用自己的民族语言写作。这使得中国音乐改变了传统，注重西方的曲式结&nbsp;构、和声色彩及配器原理，形式上发生了重大变化，自然与传统民乐形成风格上的差异。</p>
+<p>
+	千百年来，人们习惯了民乐富于美感的旋律性，这同传统戏曲、民歌、曲艺所呈现的风格一脉相承，审美旨趣一致，所以，作品的旋律优美没有了，人们自然不认可其&nbsp;纯正，因为你不用中国人的思维与习惯去表达。观众去聆听民族音乐会，是听旋律美和韵味美，而不是去感受复杂的和声和嘈杂的音响，这是中国民乐与西方音乐的&nbsp;本质区别。目前出现的民乐不被大众接受、遭遇市场冷落，主要是曲目风格发生变化引起的。就是说，民族原本是用中国人的语言和习惯表达的，现在却以西方式的&nbsp;表现方式和思维习惯去呈现，必然造成观众难以理解和接受的现实。久而久之，民乐就成了孤家寡人。</p>
+<p>
+	这实际上是中国民乐传承上的方法问题，也是反映创新中出现的文化断层问题。建国以来，我们采用的创作方法与民乐传统的创作、表演形态等诸多方面已发生了重大&nbsp;变化。从音乐传承的本质上看，两者在形式、内容、风格上已经截然不同，从音乐的活体来看，现代民乐与传统民间音乐在历史承接上出现了断代。主要表现在：第&nbsp;一、中国谱式以基本旋律为骨架，演奏时根据不同情景即兴变化，现代创作的独奏、重奏、合奏都是&ldquo;定腔定谱&rdquo;，由作曲家写作，演奏家按固定曲谱演奏，不能即&nbsp;兴发挥。第二，即使作曲家采用民间音调为素材创作，乐曲构成形式，同传统民间乐曲也已不同。传统民间乐曲在曲式结构上有独特的发展模式，不同于西方音乐体&nbsp;裁发展模式。特别民乐&ldquo;活&rdquo;的理念，实际上进行了二次创作，体现出生动、灵活、表现自如的特点。为什么同一首乐曲在历史上能出现不同流派、不同版本，与民&nbsp;乐讲究活的即兴分不开，形成中国音乐体系传人不传曲，定腔不定谱的规律。所以，当代民乐出现了风格异变，百姓听不懂，继而影响市场不接受。很多人就此指&nbsp;出：&ldquo;它是非驴非马的东西&rdquo;，&ldquo;不中不洋&rdquo;的产物。这是我们在新的传承中面临的学术问题，也是民乐的继承发展问题。</p>
+<p>
+	民族管弦乐，是当代中国音乐文化在继承传统、开创未来的发展中的一种新探索，民乐需要创新，更需要在传统基础上创新。可能我们面临的是是中国民族音乐在现代&nbsp;历史发展中的转型时期出现的困惑，目前的音乐只是当代新兴民族音乐风格的实验与积累。观众对以西方技术与理念而写的民族音乐作品，还处于逐步适应、逐步了&nbsp;解的过程，作曲家也将从中积累和总结适合于民族音乐的方法和模式，这对当代民乐的思考十分重要。</p>
+<p>
+	2010年9月，中央民族乐团在文化部国家艺术院团展演中表演的《金色回响》、《江山如此多娇》音乐会，为什么能在演出市场产生较好的社会影响，很多观众在欣赏之&nbsp;后，产生了非常好的印象。他们喜爱民族音乐，旋律优美、意境深远、表演大气、形式高雅，感染了在场观众，全场为之兴奋和欢呼雀跃。这是民族管弦乐在繁荣社&nbsp;会主义文艺舞台、推动人才、推出精品中最有影响力的表演，是市场期盼的产品，观众在这样的艺术氛围中，会热爱民乐。这是良性循环，而不是那些完全不顾及大&nbsp;众的欣赏要求远离大众，成为少部分人自娱自乐的把玩工具。民乐创作中思想观念与表现技术的变异，实际上是将民乐命运引入到了十分困惑的境地。如何保持民乐&nbsp;的传统性、用母语思维表达，是我们需要反思的课题，也是关系到民族音乐如何传承的重大问题。</p>
+<p>
+	三、关于新兴民族器乐组合问题</p>
+<p>
+	上世纪90年代以来，以大陆的王晓楠、台湾的温金龙，北京的卞留念、冯晓泉、曾格格、王勇等为代表的民族器乐在时代化、通俗化、流行化的表演中，融合了新兴&nbsp;的电声乐器、电子音乐（MIDI），其风格清新、浪漫、轻松、愉快，给人以美的享受。后来，女子十二乐坊出现，全国相继产生了上百种大、中、小不一的民乐&nbsp;组合表演，掀起了大众对民乐的新一轮热潮。</p>
+<p>
+	纵观新兴民乐组合，将传统民族乐器置入西方风格的形式中加以表现，融合成&ldquo;西乐中奏&rdquo;，按&ldquo;新民乐&rdquo;的说法：世界上有多少种音乐文化，新民乐的风格就有多少&nbsp;种可能。作为一种演奏风格，技术与个人特点，构成新民乐风格的直接因素。新民乐与传统民乐的最大区别在于，曲目时尚，演绎新奇，个性化，同时与电子&nbsp;MIDI音乐结合，借助电子声响弥补各种乐器的音色与音量不足，达到一种有机结合。</p>
+<p>
+	这种表演较简单、曲目类型较通俗，创作强调流行意识，曲目运用将西方现代通俗音乐，使得民乐表演风格缺失，过多展示了西方化的特色，唯一的民族特色是用民族&nbsp;乐器演奏，实际上走的是希腊雅尼乐队和日本喜多郎乐队的形式之路，但到目前为止，国内没有一家组合技术上达到他们的艺术水平，大多组合规模也小，制作简单&nbsp;而不细腻，缺乏整体包装，属于初级水平制作，形成不了具有世界品牌的多元化、高规格的艺术表演。尽管组合还形成不了更大的演出市场，但带动了一批热爱民乐&nbsp;艺术的观众，特别是民族器乐传播方面，这类录音在一个时期成为社会生活、茶余饭后、消遣性娱乐的主要形式，宾馆、饭店、餐厅、娱乐场所的背景音乐，都成为&nbsp;主要播放地。这类民乐在技法上以通俗音乐为主，风格上追求以西方的炫技与特色为主，传统风格不深厚，缺乏深度，与传统民乐在精神上有一定差距。这种组合形&nbsp;式的普及与传播，虽然风格上清新、典雅，欢快与愉悦，给人带来精神上的放松，编配、选材上注重表演，体现民乐传统的文化意味和深邃的韵律方面缺乏文化含&nbsp;量，所以，一般听众印象中，民乐似乎就是用来休闲娱乐的，影响了人们对民乐艺术的正确认识，中产生了诸多负面效应。甚至有人说：&ldquo;民乐就是小姐音乐。&rdquo;反&nbsp;思这类组合中，原本民乐风格上最有优势的音乐，为什么在表演中极力排斥传统内涵和优美动听的优势，一味追求异国风情？民乐的灵魂没有了，优美特色没有了，&nbsp;观众对民乐，自然就失去兴趣，哪里还有市场呢？</p>
+<p>
+	附录：国内各种民族器乐组合一览表</p>
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 32px">
+				序号</td>
+			<td style="width: 289px">
+				组合名称</td>
+			<td style="width: 59px">
+				地点</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				1</td>
+			<td style="width: 289px">
+				舞动魅力女子乐团&mdash;&mdash;FlyingFinger中西器乐组合</td>
+			<td style="width: 59px">
+				上海</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				2</td>
+			<td style="width: 289px">
+				&ldquo;五乐格格女子新民乐弹唱组合&rdquo;</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				3</td>
+			<td style="width: 289px">
+				华龙大喜女子民乐组</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				4</td>
+			<td style="width: 289px">
+				&ldquo;东方魅力&rdquo;女子乐团</td>
+			<td style="width: 59px">
+				上海</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				5</td>
+			<td style="width: 289px">
+				&ldquo;凤凰台&rdquo;女子打击乐组合</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				6</td>
+			<td style="width: 289px">
+				晨曦新民乐组合</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				7</td>
+			<td style="width: 289px">
+				女子红乐坊</td>
+			<td style="width: 59px">
+				云南</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				8</td>
+			<td style="width: 289px">
+				QQ宝贝女子新民乐组</td>
+			<td style="width: 59px">
+				山东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				9</td>
+			<td style="width: 289px">
+				阿里巴巴&mdash;新民乐组合</td>
+			<td style="width: 59px">
+				广东佛山</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				10</td>
+			<td style="width: 289px">
+				苹果演新民乐组合</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				11</td>
+			<td style="width: 289px">
+				4k女子新民乐组合</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				12</td>
+			<td style="width: 289px">
+				&ldquo;满庭芳&rdquo;女子新民乐组合</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				13</td>
+			<td style="width: 289px">
+				&ldquo;金钗鸣乐&rdquo;组合</td>
+			<td style="width: 59px">
+				福建</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				14</td>
+			<td style="width: 289px">
+				广州女子十二乐坊</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				15</td>
+			<td style="width: 289px">
+				女子鼓乐新民乐舞蹈队</td>
+			<td style="width: 59px">
+				山东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				16</td>
+			<td style="width: 289px">
+				&ldquo;海棠四季&rdquo;女子新民乐组合</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				17</td>
+			<td style="width: 289px">
+				27&nbsp;K&nbsp;钻克拉水晶乐坊</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				18</td>
+			<td style="width: 289px">
+				坊芳华十八&nbsp;</td>
+			<td style="width: 59px">
+				上海</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				19</td>
+			<td style="width: 289px">
+				&ldquo;月之源&rdquo;新民乐组合专场</td>
+			<td style="width: 59px">
+				上海</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				20</td>
+			<td style="width: 289px">
+				&ldquo;凤舞九天&rdquo;女子打击乐坊</td>
+			<td style="width: 59px">
+				山东济南</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				序号</td>
+			<td style="width: 289px">
+				组合名称</td>
+			<td style="width: 59px">
+				地点</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				21</td>
+			<td style="width: 289px">
+				　&ldquo;十五乐靓&rdquo;组合</td>
+			<td style="width: 59px">
+				四川</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				22</td>
+			<td style="width: 289px">
+				古典魅力组合&mdash;&mdash;女子新民乐乐团</td>
+			<td style="width: 59px">
+				天津</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				23</td>
+			<td style="width: 289px">
+				新民乐组合嘉凡女</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				24</td>
+			<td style="width: 289px">
+				广州女子新民乐弹唱组合</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				25</td>
+			<td style="width: 289px">
+				尚弦乐新民乐组合</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				26</td>
+			<td style="width: 289px">
+				中国&ldquo;东方天使&rdquo;女子民乐组合</td>
+			<td style="width: 59px">
+				上海</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				27</td>
+			<td style="width: 289px">
+				&ldquo;冰花&rdquo;女子乐队组合</td>
+			<td style="width: 59px">
+				黑龙江</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				28</td>
+			<td style="width: 289px">
+				嘉凡民乐队新民乐组合</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				29</td>
+			<td style="width: 289px">
+				深圳悠扬女子组合</td>
+			<td style="width: 59px">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				30</td>
+			<td style="width: 289px">
+				国乐新风新民乐组合</td>
+			<td style="width: 59px">
+				上海</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				31</td>
+			<td style="width: 289px">
+				风尚女子乐秀</td>
+			<td style="width: 59px">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				32</td>
+			<td style="width: 289px">
+				华龙大喜女子民乐组合</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				33</td>
+			<td style="width: 289px">
+				北京凤乐团&nbsp;</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				34</td>
+			<td style="width: 289px">
+				&ldquo;大川国乐&rdquo;新经典民乐组合</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				35</td>
+			<td style="width: 289px">
+				风尚女子十二乐秀</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				36</td>
+			<td style="width: 289px">
+				&ldquo;东方神骏&rdquo;现代马头琴乐团</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				37</td>
+			<td style="width: 289px">
+				女子丝弦五重奏&nbsp;</td>
+			<td style="width: 59px">
+				江苏</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				38</td>
+			<td style="width: 289px">
+				弦舞时尚新民乐组合</td>
+			<td style="width: 59px">
+				广东</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				39</td>
+			<td style="width: 289px">
+				新民乐组合上海透明思考文化传播有限公司</td>
+			<td style="width: 59px">
+				上海</td>
+		</tr>
+		<tr>
+			<td style="width: 32px">
+				40</td>
+			<td style="width: 289px">
+				&ldquo;火玫瑰&rdquo;新民乐组合</td>
+			<td style="width: 59px">
+				北京</td>
+		</tr>
+	</tbody>
+</table>
+<table>
+	<tbody>
+		<tr>
+			<td style="width: 67px">
+				省份</td>
+			<td style="width: 57px">
+				数量（约）</td>
+			<td style="width: 630px">
+				代表乐队名称</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				北京<br />
+				（中央民族乐团）</td>
+			<td style="width: 57px">
+				7</td>
+			<td style="width: 630px">
+				大型民族器乐组合&ldquo;盛装民乐&rdquo;、&ldquo;天上人间&rdquo;组合（冯晓泉、曾格格）、&ldquo;音乐猫&rdquo;组合&nbsp;（赵聪、陈莎莎）、民乐e组合(张辉、冯满天)、&ldquo;寰纳飞扬&rdquo;组合（朱剑平、金玥、吴学伟）、FS组合（王艺、富强）、非凡乐队（蔡阳）</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				北京&nbsp;</td>
+			<td style="width: 57px">
+				50</td>
+			<td style="width: 630px">
+				&ldquo;五乐格格女子新民乐弹唱组合&rdquo;、华龙大喜女子民乐组、中央音乐学院、&ldquo;凤凰台&rdquo;女子打击乐组合、27&nbsp;K&nbsp;钻克拉水晶乐坊|新民乐组合、新民乐组合嘉凡女、&ldquo;红樱束&rdquo;女子打击乐团、&ldquo;东方天使&rdquo;女子民乐组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				上海</td>
+			<td style="width: 57px">
+				70</td>
+			<td style="width: 630px">
+				舞动魅力女子乐团&mdash;&mdash;FlyingFinger中西器乐组合&nbsp;、&ldquo;东方魅力&rdquo;女子乐团、坊芳华十八&nbsp;、国乐新风&ldquo;新民乐组合&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				广东</td>
+			<td style="width: 57px">
+				90</td>
+			<td style="width: 630px">
+				广州女子十二乐坊、风尚女子十二乐秀、广州女子新民乐弹唱组合、尚弦乐新民乐组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				省份</td>
+			<td style="width: 57px">
+				数量（约）</td>
+			<td style="width: 630px">
+				代表乐队名称</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				江苏</td>
+			<td style="width: 57px">
+				30</td>
+			<td style="width: 630px">
+				女子丝弦五重奏、闪耀舞动新民乐组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				山东</td>
+			<td style="width: 57px">
+				10</td>
+			<td style="width: 630px">
+				&ldquo;凤舞九天&rdquo;女子打击乐坊&nbsp;<br />
+				QQ宝贝女子新民乐组合&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				四川</td>
+			<td style="width: 57px">
+				10</td>
+			<td style="width: 630px">
+				&ldquo;十五乐靓&rdquo;组合<br />
+				秀美时尚的音乐美女</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				湖北</td>
+			<td style="width: 57px">
+				10</td>
+			<td style="width: 630px">
+				青春靓丽女子组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				黑龙江</td>
+			<td style="width: 57px">
+				1</td>
+			<td style="width: 630px">
+				&ldquo;冰花&rdquo;女子乐队组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				云南</td>
+			<td style="width: 57px">
+				1</td>
+			<td style="width: 630px">
+				&ldquo;女子红乐坊&rdquo;组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				陕西</td>
+			<td style="width: 57px">
+				1</td>
+			<td style="width: 630px">
+				&ldquo;金钗鸣乐&rdquo;女子民乐组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				内蒙古</td>
+			<td style="width: 57px">
+				1</td>
+			<td style="width: 630px">
+				杭盖乐队组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				新疆</td>
+			<td style="width: 57px">
+				1</td>
+			<td style="width: 630px">
+				美丽公主组合</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				吉林</td>
+			<td style="width: 57px">
+				1</td>
+			<td style="width: 630px">
+				八度女子乐团</td>
+		</tr>
+		<tr>
+			<td style="width: 67px">
+				浙江</td>
+			<td style="width: 57px">
+				1</td>
+			<td style="width: 630px">
+				《韵月》女子民乐组合</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+&nbsp;
+
+<!-- JAComment starts -->
+                        <!-- BEGIN - load blog head -->
+			<script type="text/javascript">
+//<![CDATA[	
+	jQuery(document).ready(function($){	
+		jac_init();		
+	});
+	
+	var JACommentConfig = {
+		jac_base_url 			: '/',
+		siteurl 				: '/index.php?tmpl=component&option=com_jacomment&view=comments',
+		minLengthComment 		: '2',		
+		errorMinLength 			: '您的评论太短了吧!',
+		maxLengthComment 		: '1000',
+		errorMaxLength 			: '您的评论太长了! 请缩减后重新提交.',			
+		isEnableAutoexpanding  : '0',
+		dateASC					: '最新的',
+		dateDESC				: 'Latest comment in bottom',
+		votedASC				: '最高评分',
+		strLogin				: '现在登录',
+		isEnableBBCode			: '1',
+		hdCurrentComment		: 0,
+		
+		contentoption			: 'com_content',
+		contentid				: '183',
+		commenttype				: '1',
+		jacomentUrl				: 'knowledges/magazine/183-%E4%B8%AD%E5%9B%BD%E6%B0%91%E6%97%8F%E7%AE%A1%E5%BC%A6%E4%B9%90%E7%8A%B6%E5%86%B5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A',
+		contenttitle			: '中国民族管弦乐状况分析报告',
+				
+		hidInputComment			: '请输入评论内容!.',
+		hidInputWordInComment	: 'The words are too long you should add more spaces between them',
+		hidEndEditText			: 'Please exit spell check before submitting comment',
+		hidInputName			: '请输入名字',
+		hidInputEmail			: '请输入电子邮件',
+		hidValidEmail			: '您的电子邮件无效',
+		hidAgreeToAbide			: '您必须同意网站声明',
+		hidInputCaptcha			: '请输入验证码',
+		textQuoting			    : 'Quoting',
+		textQuote			    : '引用',
+		textPosting			    : 'Posting',
+		textReply			    : '回复',
+		textCheckSpelling		: 'No writing errors',
+		mesExpandForm			: '(+) 展开',
+		mesCollapseForm			: '(-) 收起',
+		theme					: 'default',
+		txtCopiedDecode			: 'Copied dcode'							
+	};																	
+//]]>
+</script>
+	<script type="text/javascript" src="http://www.chinacno.org/components/com_jacomment/libs/js/dcode/dcodr.js"></script>
+	<script type="text/javascript" src="http://www.chinacno.org/components/com_jacomment/libs/js/dcode/dcode.js"></script>
+	  
+	               			<!-- END   - load blog head -->
+										
+            <div id="jac-wrapper" class="clearfix"></div>				
+            <script language="javascript" type="text/javascript">
+            //<![CDATA[
+            window.addEvent("load", function() {
+            	var url = window.location.hash;
+            	c_url = url.split('#');
+            	id = 0;
+            	tmp = 0;
+            	if(c_url.length >= 1){		
+            		for(i=1; i< c_url.length; i++){			
+            			if(c_url[i].indexOf("jacommentid:") >-1){				
+            				tmp = c_url[i].split(':')[1];				
+            				if(tmp != ""){									
+            					id = parseInt(tmp, 10);
+            				}
+            			}
+            		}
+            	}
+            	            	
+            	url = "http://www.chinacno.org/index.php?tmpl=component&option=com_jacomment&view=comments&contentoption=com_content&contentid=183&ran=" + Math.random();	            	            	        
+            	if(id != 0){
+					url += "&currentCommentID=" + id;
+            	}
+				var req = new Request({
+					 method: 'get',
+                         url: url,                         
+                         onComplete: function(text) { 
+						$('jac-wrapper').innerHTML = $('jac-wrapper').innerHTML + text;																		 						
+						//$('jacommentid:'+id).getPosition();
+						moveBackground(id, 'http://www.chinacno.org/');																																						
+							jac_auto_expand_textarea();			 
+                        }						
+					}).send();					 							
+            	});			
+				//]]>						
+				</script>
+            
+<!-- JAComment ends -->
+
+		</div>
+
+		
+			
+	</div>
+
+</div>												</div>
+	
+													
+											</div>
+										</div>
+										
+																				
+																				<div id="right" class="sidebar">
+											<div class="module mod-sidebar mod-menu mod-menu-sidebar mod-sidebar-color2  first last">
+
+		
+	<div class="box-1 deepest">
+	
+				<h3 class="header"><span class="header-2"><span class="header-3">分类菜单</span></span></h3>
+				
+		<ul class="menu menu-accordion"><li class="level1 item1 first parent"><a href="../instruments.1" class="level1 item1 first parent"><span class="bg">民族器乐</span></a></li><li class="level1 item2"><a href="../academic.1" class="level1 item2"><span class="bg">学术共享</span></a></li><li class="level1 item3 last active current"><a href="../magazine.1" class="level1 item3 last active current"><span class="bg">《锦瑟》</span></a></li></ul>		
+	</div>
+		
+</div>										</div>
+																		
+									</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+	
+				<div class="content-wrapper-b1">
+					<div class="content-wrapper-b2">
+						<div class="content-wrapper-b3"></div>
+					</div>
+				</div>
+	
+			</div>
+		</div>
+	</div>
+
+	<div id="page-footer">
+		<div class="wrapper">
+
+			
+						<div id="footer">
+
+				<a class="anchor" href="183-中�%259B��%2591�%2597%258F管弦�%2590�%258A��%2586��%2588%2586�%259E%2590�%258A��%2591%258A#page"></a>
+				<ul class="menu"><li class="level1 item1 first"><a href="../../index.html" class="level1 item1 first"><span class="bg">首页</span></a></li><li class="level1 item2"><a href="../../news.1" class="level1 item2"><span class="bg">新闻</span></a></li><li class="level1 item3"><a href="../../concerts.1" class="level1 item3"><span class="bg">演出</span></a></li><li class="level1 item4"><a href="../../contact" class="level1 item4"><span class="bg">联系</span></a></li><li class="level1 item5"><a href="183-中�%259B��%2591�%2597%258F管弦�%2590�%258A��%2586��%2588%2586�%259E%2590�%258A��%2591%258A#" class="level1 item5"><span class="bg">招聘</span></a></li><li class="level1 item6 last"><a href="../../search" class="level1 item6 last"><span class="bg">搜索</span></a></li></ul><div class="custom">
+	<p>
+	演出中心电话：（010）64957435，13701226911<br />
+	网络中心电话：（010）64933821,13671308176<br />
+	备案许可证编号：京ICP备12002418号<br />
+	Copyright &copy; 2011 ChinaCNO.org</p>
+</div>				
+			</div>
+			<!-- footer end -->
+						
+		</div>
+	</div>
+        </body>
+</html>

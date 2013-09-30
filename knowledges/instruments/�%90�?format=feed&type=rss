@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 吹</title>
+		<description></description>
+		<link>http://www.chinacno.org/knowledges/instruments/吹</link>
+		<lastBuildDate>周四, 26 9月 2013 17:53:55 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/knowledges/instruments/吹?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>木唢呐</title>
+			<link>http://www.chinacno.org/knowledges/instruments/吹/307-木唢呐</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/吹/307-木唢呐</guid>
+			<description><![CDATA[木唢呐〓维吾尔族吹奏乐器。
+]]></description>
+			<author>ws@chinacno.org (杨淼芳)</author>
+			<pubDate>周四, 31 5月 2012 06:43:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>鼻箫</title>
+			<link>http://www.chinacno.org/knowledges/instruments/吹/303-鼻箫</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/吹/303-鼻箫</guid>
+			<description><![CDATA[<p>
+	鼻箫〓黎族吹奏乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周二, 29 5月 2012 07:08:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>鼻笛</title>
+			<link>http://www.chinacno.org/knowledges/instruments/吹/302-鼻笛</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/吹/302-鼻笛</guid>
+			<description><![CDATA[<p>
+	鼻笛〓高山族吹奏乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周二, 29 5月 2012 07:04:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>巴乌</title>
+			<link>http://www.chinacno.org/knowledges/instruments/吹/300-巴乌</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/吹/300-巴乌</guid>
+			<description><![CDATA[<p>
+	巴乌〓彝、苗、哈尼等族吹奏乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周二, 29 5月 2012 05:22:03 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

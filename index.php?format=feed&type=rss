@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 首页||Home</title>
+		<description></description>
+		<link>http://www.chinacno.org/</link>
+		<lastBuildDate>周四, 26 9月 2013 17:48:02 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/index.php?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>首页</title>
+			<link>http://www.chinacno.org/111-home</link>
+			<guid isPermaLink="true">http://www.chinacno.org/111-home</guid>
+			<description><![CDATA[<div class="xbar">
+	<h4 class="in-right">
+		<a href="http://www.chinacno.org/news/other-news">业界新闻</a></h4>
+	<h4>
+		<a href="http://www.chinacno.org/news/cno-news">团内新闻</a></h4>
+</div>
+<div class="xline">
+	<div class="xblock width50">
+		<div class="xleft">
+			{loadposition content1}</div>
+	</div>
+	<div class="xblock width50">
+		<div class="xright">
+			{loadposition content2}</div>
+	</div>
+</div>
+<div class="xbar">
+	<h4 class="in-right">
+		<a href="http://www.chinacno.org/concerts/other-concerts">其它演出</a></h4>
+	<h4>
+		<a href="http://www.chinacno.org/concerts/cno-concerts">团内演出</a></h4>
+</div>
+<div class="xline">
+	<div class="xblock width50">
+		<div class="xleft">
+			{loadposition content3}</div>
+	</div>
+	<div class="xblock width50">
+		<div class="xright">
+			{loadposition content4}</div>
+	</div>
+</div>
+<div class="xbar">
+	<h4 class="in-right">
+		<a href="http://www.chinacno.org/knowledges/academic">学术共享</a></h4>
+	<h4>
+		<a href="http://www.chinacno.org/knowledges/instruments">民族器乐</a></h4>
+</div>
+<div class="xline">
+	<div class="xblock width50">
+		<div class="xleft">
+			{loadposition content5}</div>
+	</div>
+	<div class="xblock width50">
+		<div class="xright">
+			{loadposition content6}</div>
+	</div>
+</div>
+<div class="xbar">
+	<h4 class="in-right">
+		<a href="http://www.chinacno.org/comments/books">书评</a></h4>
+	<h4>
+		<a href="http://www.chinacno.org/comments/music">乐评</a></h4>
+</div>
+<div class="xline">
+	<div class="xblock width50">
+		<div class="xleft">
+			{loadposition content7}</div>
+	</div>
+	<div class="xblock width50">
+		<div class="xright">
+			{loadposition content8}</div>
+	</div>
+</div>
+<div class="xbar">
+	<h4>
+		<a href="http://www.chinacno.org/comments/artists">人物</a></h4>
+</div>
+<div class="xline">
+	<div class="xblock">
+		<div class="xleft">
+			{loadposition content9}</div>
+	</div>
+</div>
+]]></description>
+			<author>i@chinacno.org (X-ELEVEN)</author>
+			<pubDate>周日, 20 3月 2011 07:55:05 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

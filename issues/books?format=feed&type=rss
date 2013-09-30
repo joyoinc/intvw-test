@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 书讯</title>
+		<description></description>
+		<link>http://www.chinacno.org/issues/books</link>
+		<lastBuildDate>周四, 26 9月 2013 17:55:16 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/issues/books?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>民族音乐随笔</title>
+			<link>http://www.chinacno.org/issues/books/44-民族音乐随笔</link>
+			<guid isPermaLink="true">http://www.chinacno.org/issues/books/44-民族音乐随笔</guid>
+			<description><![CDATA[<img alt="民族音乐随笔" class="hs in-left" src="http://www.chinacno.org/images/shuxundiexun/shuxun/minzuyinyuesuibi.jpg" style="width: 150px; height: 225px; " title="民族音乐随笔" />]]></description>
+			<author>xiaowenli@chinacno.org (肖文礼)</author>
+			<pubDate>周日, 13 3月 2011 12:58:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>金色回响</title>
+			<link>http://www.chinacno.org/issues/books/43-金色回响</link>
+			<guid isPermaLink="true">http://www.chinacno.org/issues/books/43-金色回响</guid>
+			<description><![CDATA[<img alt="金色回响" class="hs in-left" src="http://www.chinacno.org/images/shuxundiexun/shuxun/jinsehuixiang.jpg" style="width: 150px; height: 225px; " title="金色回响" />]]></description>
+			<author>xiaowenli@chinacno.org (肖文礼)</author>
+			<pubDate>周日, 13 3月 2011 11:31:51 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

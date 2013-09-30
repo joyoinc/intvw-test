@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 民族器乐</title>
+		<description></description>
+		<link>http://www.chinacno.org/knowledges/instruments</link>
+		<lastBuildDate>周四, 26 9月 2013 17:53:42 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/knowledges/instruments?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>木唢呐</title>
+			<link>http://www.chinacno.org/knowledges/instruments/吹/307-木唢呐</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/吹/307-木唢呐</guid>
+			<description><![CDATA[木唢呐〓维吾尔族吹奏乐器。
+]]></description>
+			<author>ws@chinacno.org (杨淼芳)</author>
+			<pubDate>周四, 31 5月 2012 06:43:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>鼻箫</title>
+			<link>http://www.chinacno.org/knowledges/instruments/吹/303-鼻箫</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/吹/303-鼻箫</guid>
+			<description><![CDATA[<p>
+	鼻箫〓黎族吹奏乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周二, 29 5月 2012 07:08:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>鼻笛</title>
+			<link>http://www.chinacno.org/knowledges/instruments/吹/302-鼻笛</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/吹/302-鼻笛</guid>
+			<description><![CDATA[<p>
+	鼻笛〓高山族吹奏乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周二, 29 5月 2012 07:04:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>巴乌</title>
+			<link>http://www.chinacno.org/knowledges/instruments/吹/300-巴乌</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/吹/300-巴乌</guid>
+			<description><![CDATA[<p>
+	巴乌〓彝、苗、哈尼等族吹奏乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周二, 29 5月 2012 05:22:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>布依胡琴</title>
+			<link>http://www.chinacno.org/knowledges/instruments/拉/308-布依胡琴</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/拉/308-布依胡琴</guid>
+			<description><![CDATA[<p>
+	布依胡琴〓布依族拉弦乐器。</p>
+]]></description>
+			<author>zhaiqianmin@sohu.com (翟乾敏)</author>
+			<pubDate>周四, 31 5月 2012 07:31:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>朗多依</title>
+			<link>http://www.chinacno.org/knowledges/instruments/拉/196-朗多依</link>
+			<guid isPermaLink="true">http://www.chinacno.org/knowledges/instruments/拉/196-朗多依</guid>
+			<description><![CDATA[<p>
+	黎族的拉弦乐器。流行于海南黎族地区。</p>
+]]></description>
+			<author>xiaowenli@chinacno.org (肖文礼)</author>
+			<pubDate>周六, 26 11月 2011 10:50:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

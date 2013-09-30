@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 女中</title>
+		<description></description>
+		<link>http://www.chinacno.org/about-us/teams/nvzhong</link>
+		<lastBuildDate>周四, 26 9月 2013 17:51:08 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/about-us/teams/nvzhong?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+	</channel>
+</rss>

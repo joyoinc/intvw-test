@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Kunena 1.6" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 中央民族乐团 - Forum</title>
+		<description>Kunena Site Syndication</description>
+		<link>http://www.chinacno.org</link>
+		<lastBuildDate>周四, 26 9月 2013 18:04:46 +0000</lastBuildDate>
+		<generator>Kunena 1.6</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/forums/%E5%90%B9%E7%AE%A1%E4%B9%90/rss?format=feed&amp;type=rss"/>
+		<image>
+			<url>http://www.chinacno.org/components/com_kunena/template/A1/images/icons/rss.png</url>
+			<title>中央民族乐团 - Forum</title>
+			<link>http://www.chinacno.org/</link>
+			<description><![CDATA[Kunena Site Syndication]]></description>
+		</image>
+		<language>en-gb</language>
+	</channel>
+</rss>

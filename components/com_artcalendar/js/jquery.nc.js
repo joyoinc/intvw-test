@@ -1,0 +1,1 @@
+var acjQuery = jQuery;jQuery.noConflict();

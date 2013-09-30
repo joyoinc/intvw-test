@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 碟讯</title>
+		<description></description>
+		<link>http://www.chinacno.org/issues/discs</link>
+		<lastBuildDate>周四, 26 9月 2013 17:55:15 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/issues/discs?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>裴长佳独唱音乐会精粹</title>
+			<link>http://www.chinacno.org/issues/discs/309-裴长佳独唱音乐会精粹</link>
+			<guid isPermaLink="true">http://www.chinacno.org/issues/discs/309-裴长佳独唱音乐会精粹</guid>
+			<description><![CDATA[<p>
+	<a href="http://v.youku.com/v_show/id_XNDA4MzEzODI4.html"><img alt="" src="http://www.chinacno.org/images/2012/06/peichangjia.jpg" style="width: 240px; height: 230px" /></a></p>
+]]></description>
+			<author>xiaowenli@chinacno.org (肖文礼)</author>
+			<pubDate>周日, 03 6月 2012 13:19:57 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn" lang="zh-cn" dir="ltr" >
+<head>
+  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="keywords" content="" />
+  <meta name="rights" content="" />
+  <meta name="language" content="zh-CN" />
+  <meta name="title" content="八角鼓" />
+  <meta name="author" content="翟乾敏" />
+  <meta name="generator" content="Joomla! 1.6 - Open Source Content Management" />
+  <title>中央民族乐团 - 八角鼓</title>
+  <link href="http://www.chinacno.org/templates/yoo_studio/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.chinacno.org/plugins/content/mavikthumbnails/mavikthumbnails/highslide/highslide.css" type="text/css" />
+  <script src="http://www.chinacno.org/media/system/js/core.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://www.chinacno.org/plugins/content/mavikthumbnails/mavikthumbnails/highslide/highslide-with-gallery.packed.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+			// Add the controlbar
+			hs.addSlideshow({
+				slideshowGroup: "301",
+				interval: 5000,
+				repeat: false,
+				useControls: true,
+				fixedControls: "fit",
+				overlayOptions: {
+					opacity: 0.75,
+					position: "bottom center",
+					hideOnMouseOut: true
+				}
+			});
+		
+				hs.graphicsDir = "/plugins/content/mavikthumbnails/mavikthumbnails/highslide/graphics/"
+				hs.align = "center";
+				hs.transitions = ["expand"];
+				hs.outlineType = "rounded-white";
+				hs.fadeInOut = false;
+				hs.showCredits = false;
+				//hs.dimmingOpacity = 0.75;
+			
+  </script>
+  <!--[if lte IE 6]>
+					<link href="/plugins/content/mavikthumbnails/mavikthumbnails/highslide/highslide-ie6.css" rel="stylesheet" type="text/css" />
+				<![endif]-->
+
+<link rel="stylesheet" href="http://www.chinacno.org/templates/yoo_studio/css/popups.css" type="text/css" />
+</head>
+<body class="contentpane">
+	
+	
+<div id="system" class="">
+
+	
+	<div class="item">
+
+					<div class="icon printscreen"><a href="301-�%2585��%2592�%2593#" onclick="window.print();return false;"><img src="http://www.chinacno.org/media/system/images/printButton.png" alt="打印"  /></a></div>
+		
+				<h1 class="title">
+
+							<a href="301-�%2585��%2592�%2593">八角鼓</a>
+							
+		</h1>
+				
+				<p class="meta">
+	
+			编辑：翟乾敏  2012年5月29日. 发表于 <a href="../�%2589%2593.1">打</a>	
+		
+		</p>
+		
+		
+		<div class="content">
+		<p>
+	八角鼓〓打击乐器。</p>
+ 
+<p>
+	<a class="thumbnail highslide" style="" href="http://www.chinacno.org/images/2012/05/zhaiqianmin/bajiaogu.jpg" onclick='return hs.expand(this, { captionText: "八角鼓", slideshowGroup: "301" })'><img alt="八角鼓" class="hs in-left" src="http://www.chinacno.org/images/thumbnails/images-2012-05-zhaiqianmin-bajiaogu-150x100.jpg" style="width: 150px; height: 100px;  width: 150px;" /></a>据传，原为满族八旗的八位首领各献一块最好的木料镶嵌而成，象征满族八旗的团结。八木相拼可得八角，故名八角鼓。鼓的棱角处嵌有兽骨片，八边中七边的木框上各开一个长形孔，孔间用铜轴串上两个很小的铜钱(也有在框边上嵌二十一副小铜钹的)。另一边的木框上装一根铜钉，钉头系两根长穗子。面蒙蟒皮或羊、马皮。演奏时，左手执鼓，鼓面竖立，右手敲击鼓面。手指弹奏可得弱者，数指并拢或以手掌拍击可得强声；摇动可得铜钱碰击声，常弹摇并用。早期用于满族八角鼓戏，现用于单弦伴奏。</p>
+<p>
+	最初由一人手持八角鼓自弹自唱，后发展为有单唱、拆唱、群唱等表演形式。唱腔由四句板、数板、若干曲牌和煞尾构成。中华人民共和国成立初期，内蒙古自治区呼和浩特市和吉林省扶余县，先后在八角鼓曲牌基础上发展成&ldquo;满戏&rdquo;。流行于北京等地的曲艺单弦，也称八角鼓。</p>
+		</div>
+
+		
+			
+	</div>
+
+</div>
+</body>
+</html>

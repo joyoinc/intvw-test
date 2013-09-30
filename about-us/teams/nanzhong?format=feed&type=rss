@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>中央民族乐团 - 男中</title>
+		<description></description>
+		<link>http://www.chinacno.org/about-us/teams/nanzhong</link>
+		<lastBuildDate>周四, 26 9月 2013 17:51:17 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.chinacno.org/about-us/teams/nanzhong?format=feed&amp;type=rss"/>
+		<language>zh-cn</language>
+		<item>
+			<title>男低音 王昆</title>
+			<link>http://www.chinacno.org/about-us/teams/nanzhong/434-王昆</link>
+			<guid isPermaLink="true">http://www.chinacno.org/about-us/teams/nanzhong/434-王昆</guid>
+			<description><![CDATA[<p>
+	<img alt="王昆" class="hs in-left" src="http://www.chinacno.org/images/people/nanzhong/wangkun.jpg" style="width: 150px; height: 225px" title="王昆" /></p>
+]]></description>
+			<author>12735514@qq.com (刘松焘)</author>
+			<pubDate>周二, 09 7月 2013 14:10:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>李克鹏</title>
+			<link>http://www.chinacno.org/about-us/teams/nanzhong/117-李克鹏</link>
+			<guid isPermaLink="true">http://www.chinacno.org/about-us/teams/nanzhong/117-李克鹏</guid>
+			<description><![CDATA[<img alt="李克鹏" class="hs in-left" src="http://www.chinacno.org/images/people/nanzhong/likepeng.jpg" style="width: 149px; height: 224px; " title="李克鹏" />]]></description>
+			<author>xiaowenli@chinacno.org (肖文礼)</author>
+			<pubDate>周一, 21 3月 2011 08:03:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
